@@ -21,7 +21,8 @@ forward.
     - The simulate competition uses four computers (Ubuntu 14.04 operation system installed), Computer A used as
 server, Computer B, C used as clients, Computer D used as referee.
     - A switch is used to connect 4 computers through Ethernet.
-![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/1.png)  Figure 1 SimuroSot Robo game software framework
+>![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/1.png)  
+>Figure 1 SimuroSot Robo game software framework
 4. Simulate competition software framework:
     - Simulate competition software is based on ROS jade, Gazebo 5 and QT5.
     - Figure 5.1 is the SimuroSot Robo game software framework :
@@ -93,6 +94,6 @@ A foul will be called for in the following cases.
 3. It is referred to as handling, as judged by the referee, when a robot other than the goalkeeper catches the ball. It is also considered as handling, if a robot firmly attaches itself to the ball such a way that no other robot is allowed to manipulate the ball.
 
 4. The goalkeeper robot should kick out the ball from its goal area within 10 seconds. The failure to do so will be
-penalized by giving a ​ free-ball​ .
+penalized by giving a free-ball.
 
 5. Giving a free-ball to the defensive team will penalize the blocking of a goalkeeper in its goal
