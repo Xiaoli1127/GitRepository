@@ -1,7 +1,10 @@
 ### Marathon - HuroCup Laws of the Game
+----------
+
+###### Version: 15.1.1 Date: Mon May 22 2017 22:33:16 GMT-0500 (CDT)
 
 ![](https://github.com/cao-yan/rules/blob/master/marathon/img/1.png)
-###### Version: 15.1.1 Date: Mon May 22 2017 22:33:16 GMT-0500 (CDT)
+
 ## HuroCup Laws of the Game
 ## Marathon (Pro/U19)
 
@@ -48,7 +51,7 @@ The following laws describe the specifics of the marathon event. For general spe
 
 ![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.jpeg)
 |-|
-|Marathon Marker|
+|Marathon Track|
 
 
 |Dimension   |Comment        |Kid Size   |Adult Size     |U19
