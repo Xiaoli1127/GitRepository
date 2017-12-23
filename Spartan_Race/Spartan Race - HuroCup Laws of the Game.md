@@ -71,11 +71,8 @@ The following laws describe the specifics of the spartan race event. For general
 
 [SR-1.8]: The sheets are colour coded, that is sheets at different heights have different colours as shown in Figure [Uneven Terrain](https://docs.google.com/document/d/1mh1xXGr970a3S0qakOopx7g8n-JDd2HS7DaYFoopPfo/pub#id.d06beo3fm8xk).
 
-The Ladder and Rope
-
-
->**image**
->**Dimensions of Ladder and Rope.**
+>![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/5.png)
+>The Ladder and Rope
 
 [SR-1.9]: The dimensions of the region for ladder and rope are at least 200 cm by 200 cm as shown in Figure [Ladder and Rope](https://docs.google.com/document/d/1mh1xXGr970a3S0qakOopx7g8n-JDd2HS7DaYFoopPfo/pub#kix.ud5kjrh7h0c8).
 
