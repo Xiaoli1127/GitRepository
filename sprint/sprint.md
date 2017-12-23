@@ -1,6 +1,6 @@
 Version: 15.0.2 Date: Mon Apr 10 2017 08:39:52 GMT+0800 (HKT)
 
->![]()
+>![](https://github.com/cao-yan/rules/blob/master/sprint/pic1)
 >## HuroCup Laws of the Game
 >## Sprint (Pro/U19)
 
@@ -11,7 +11,7 @@ Version: 15.0.2 Date: Mon Apr 10 2017 08:39:52 GMT+0800 (HKT)
 >[jacky.baltes@ntnu.edu.tw](mailto:jacky.baltes@ntnu.edu.tw)  
 
 
->![]()
+>![](https://github.com/cao-yan/rules/blob/master/sprint/pic2)
 >Abstract  
 >The following rules and regulations govern the game of the Robot Sprint event in HuroCup, a robotic game and robotics benchmark problem for humanoid robots.
 
@@ -25,7 +25,7 @@ Version: 15.0.2 Date: Mon Apr 10 2017 08:39:52 GMT+0800 (HKT)
 
 ># [SP-1]: Field of Play  
 >[SP-1.1]: The dimensions of the playing field are at least 600 cm by 400 cm. A figure of the playing field is shown in Figure 1.  
->![]()  
+>![](https://github.com/cao-yan/rules/blob/master/sprint/pic3)  
 
 |Dimension         | Comment           | 	Kid Size  | Adult Size | 	U19 League |
 | ------------- | ------------- | ----- | ------- | ------ | 
