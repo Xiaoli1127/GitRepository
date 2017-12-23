@@ -6,15 +6,20 @@
 ## Marathon (Pro/U19)
 
 >**Jacky Baltes**
+
 >**Educational Robotics Center**
+
 >**Department of Electrical Engineering**
+
 >**National Taiwan Normal UniversityTaipei, 10610, Taiwan**
+
 >**[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)**
 
-![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)
+>**![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)**
 
-<center>Abstract</center>
-<center>The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots</center>.
+>**Abstract**
+
+>**The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**
 
 ### Latest Version of the Rules for HuroCup
 The latest official version of the rules of the game for HuroCup is always available from the [HuroCup Facebook Page](https://www.google.com/url?q=http://www.facebook.com/groups/hurocup&sa=D&ust=1513997050530000&usg=AFQjCNHgafKaqOMm220w8yk9e88YjVmxaA).
@@ -48,7 +53,7 @@ The following laws describe the specifics of the marathon event. For general spe
 
 [MR-1.7]: The track contains several breaks. Each break is less than $B long.
 
-| >![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.png)	|
+| ss ![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.png)|
 |-|
 |Marathon Track|
 
