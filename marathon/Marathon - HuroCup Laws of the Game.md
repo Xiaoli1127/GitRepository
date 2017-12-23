@@ -46,9 +46,9 @@ The following laws describe the specifics of the marathon event. For general spe
 
 [MR-1.7]: The track contains several breaks. Each break is less than $B long.
 
-| ss ![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.png)|
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.jpeg)
 |-|
-|Marathon Track|
+|Marathon Marker|
 
 
 |Dimension   |Comment        |Kid Size   |Adult Size     |U19
@@ -58,11 +58,9 @@ The following laws describe the specifics of the marathon event. For general spe
     
 [MR-1.8]: At each break, the continuation of the track is indicated by a marker. The markers contain an arrow that will point in the direction of the turn or corner with a 90 degree angle. The markers are black on a white background or white on a black background. The size of the marker is 10cm * 10cm. A right marker is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22). A sample marathon track is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22).
 
-	
-<table>
-<imge>
-Marathon Marker and Plan
-</table>
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/4.png)![](https://github.com/cao-yan/rules/blob/master/marathon/img/5.png)
+|-|
+|Marathon Marker and Plan|
 
 Sample images for the markers are available Marker Forward, Marker Right, and Marker Left. Note that the actual competition markers may be different in size, colour, or shape.
 [MR-1.9]: Circumstances permitting, the marathon will be held outdoors during daylight hours. Robots must be able to compensate for varying lighting conditions, heat or cold, rain puddles, and uneven pavement.
@@ -141,7 +139,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 This section contains the list of official world records for the HuroCup Robot marathon competition first introduced in the 2007 WorldCup competition.
 
-Kid Size
+Kid Size 
 
 |Date |Event |Team |Affiliation |Time |
 |:-|:-|:-|:-|-:|
@@ -150,7 +148,7 @@ Kid Size
 |20th July 2011 |WorldCup 2011, Kaohsiung, Taiwan |Team Plymouth |Plymouth University, U.K. |07:35.00 (84.390 m) |
 |25th July 2008 |WorldCup 2008, Qingdao, China |aiRobot |NCKU, Taiwan |04:35.00 (42.195 m) |
 |17th June 2007 |World Cup 2007, San Francisco, U.S.A. |Hansaram |KAIST, South Korea |37:30.00 (42.195 m) |
-    
+ 
 Aduilt Size
 
 |Date |Event |Team |Affiliation |Time |
@@ -160,10 +158,10 @@ Aduilt Size
 ### Appendix Marathon Markers
 
 #### Marker Forward
->**![](https://github.com/cao-yan/rules/blob/master/marathon/img/6.png)** 
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/6.png)
 
 #### Marker Right
->**![](https://github.com/cao-yan/rules/blob/master/marathon/img/7.png)** 
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/7.png)
 
 #### Marker Left
->**![](https://github.com/cao-yan/rules/blob/master/marathon/img/8.png)** 
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/8.png) 
