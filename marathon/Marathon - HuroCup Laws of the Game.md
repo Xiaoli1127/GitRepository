@@ -1,8 +1,7 @@
 ### Marathon - HuroCup Laws of the Game
-###### Version: 15.1.1 Date: Mon May 22 2017 22:33:16 GMT-0500 (CDT)
-<img>
-![](/path/to/img.jpg)
 
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/1.png)
+###### Version: 15.1.1 Date: Mon May 22 2017 22:33:16 GMT-0500 (CDT)
 ## HuroCup Laws of the Game
 ## Marathon (Pro/U19)
 
@@ -12,10 +11,7 @@
 <center>National Taiwan Normal University</center>
 <center>Taipei, 10610, Taiwan</center>
 <center>[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw) </center>
-
-<img>
-![](/path/to/img.jpg)
-
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)
 <center>Abstract</center>
 <center>The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots</center>.
 
