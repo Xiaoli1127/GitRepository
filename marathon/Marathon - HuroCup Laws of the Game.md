@@ -67,6 +67,7 @@ The following laws describe the specifics of the marathon event. For general spe
 |Marathon Marker and Plan|
 
 Sample images for the markers are available Marker Forward, Marker Right, and Marker Left. Note that the actual competition markers may be different in size, colour, or shape.
+
 [MR-1.9]: Circumstances permitting, the marathon will be held outdoors during daylight hours. Robots must be able to compensate for varying lighting conditions, heat or cold, rain puddles, and uneven pavement.
 
 ### [MR-2]: Number of Robots
@@ -123,7 +124,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-7.6]: Any team that commits one of the infractions listed in Fouls and Misconducts will be penalized by a 5m push back by the referee. The robot must be placed 5m back towards the start line along the track. If the robot is less than 5m ahead of the start line, the robot shall be placed behind the start line. This is subject to laws [MR-6.3](https://docs.google.com/document/d/1mC2gLOjVYGabGnAS96kaOjltj17cigHKygP_nKmUC_M/pub#id.qchs30m28018) and [MR-6.4](https://docs.google.com/document/d/1mC2gLOjVYGabGnAS96kaOjltj17cigHKygP_nKmUC_M/pub#id.c8lk5i4qp43m).
 
-[MR-8]: ** Method of Scoring**
+### [MR-8]: Method of Scoring
 
 [MR-8.1]: All robots that have not covered a maximum path distance of at least 30m along the track are automatically awarded no rank and 0 points.
 
@@ -131,7 +132,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-8.3]: For more details about the point allocation, please refer to Point Allocation [Organization - HuroCup Laws of the Game].
 
-[MR-9]: Tiebreaker
+### [MR-9]: Tiebreaker
 
 [MR-9.1]: In case two or more robots have the same maximum path distance within a single round, the robots will be ranked based on the faster time to reach the maximum path distance.
 
