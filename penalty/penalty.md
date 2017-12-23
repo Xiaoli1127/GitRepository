@@ -1,7 +1,7 @@
 ------------------------------------------------------------------
 Version: 15.0.4 Date: Sun Apr 09 2017 19:47:21 GMT-0500 (CDT)itled
 
-![](http://github.com/cao-yan/rules/penalty/pic1.jpg)
+![](https://github.com/cao-yan/rules/blob/master/penalty/pic1)
 # HuroCup Laws of the Game
 # Penalty Kick (Pro Adult/U19 Kid)  
   
@@ -14,7 +14,7 @@ Version: 15.0.4 Date: Sun Apr 09 2017 19:47:21 GMT-0500 (CDT)itled
 
 ----------------------------------------------------
 
->![](http://github.com/cao-yan/rules/penalty/pic2.jpg)
+>![](https://github.com/cao-yan/rules/blob/master/penalty/pic2)
 >>Abstract
 >>The following rules and regulations govern the penalty kick event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.
 
@@ -33,7 +33,7 @@ The following laws describe the specifics of the penalty kick event. For general
 #### [PK-1.2]: One side of the playing field contains a goal. This side of the playing field is called the goal side. The opposite side of  the playing field is called the empty side. The two other sides are called touch lines. See Figure Penalty Kick Field of Play for more details and dimensions. All dimensions are approximate and small variations may occur.
 
 ---------------------------------------------------------------------------------------------------
->![](http://github.com/cao-yan/rules/penalty/pic3.jpg)   
+>![](https://github.com/cao-yan/rules/blob/master/penalty/pic3)   
 >  
 |Dimension         | Comment           | Adult Size  | U19 |
 | ------------- | ------------- | ----- | ----- |
