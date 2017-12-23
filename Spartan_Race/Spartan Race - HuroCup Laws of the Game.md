@@ -5,8 +5,8 @@
 ![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_1.png)![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_2.png)
 ### HuroCup Laws of the Game
 ### Spartan Race (Pro)
-
->**1Jacky Baltes and 2Kuo-Yang Tu**  
+    
+>**1Jacky Baltes and ^2Kuo-Yang Tu**  
 >**1Educational Robotics Center**  
 >**Department of Electrical Engineering**  
 >**National Taiwan Normal University**
@@ -15,7 +15,6 @@
 >**2Institute of Electrical Engineering**  
 >**National Kaohsiung First University of Science & Technology**  
 >**[tuky@nkfust.edu.tw](tuky@nkfust.edu.tw)**  
-
 >**![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/2.png)**  
 >**Abstract**  
 >**The following rules and regulations govern the spartan race event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**
@@ -49,14 +48,14 @@ The following laws describe the specifics of the spartan race event. For general
 [SR-1.4]: The width of the uneven terrain is approximately $W.
 
 [SR-1.5]: The thickness of a single sheet is $H.
-
+  
   ![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/3.png)
+  |-|
 
   |Dimension |Comment |Kid Size |Adult Size |
   |:-|-|-:|-:|
   |$L |Length of Uneven Terrain |3m |3 m |
   | | | | |
-
 
 Uneven Terrain
 
