@@ -1,23 +1,22 @@
 ### Marathon - HuroCup Laws of the Game
+----------
+
 ###### Version: 15.1.1 Date: Mon May 22 2017 22:33:16 GMT-0500 (CDT)
-<img>
-![](/path/to/img.jpg)
+
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/1.png)
 
 ## HuroCup Laws of the Game
 ## Marathon (Pro/U19)
 
-<center>Jacky Baltes</center>
-<center>Educational Robotics Center</center>
-<center>Department of Electrical Engineering</center>
-<center>National Taiwan Normal University</center>
-<center>Taipei, 10610, Taiwan</center>
-<center>[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw) </center>
-
-<img>
-![](/path/to/img.jpg)
-
-<center>Abstract</center>
-<center>The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots</center>.
+>**Jacky Baltes**  
+>**Educational Robotics Center**  
+>**Department of Electrical Engineering**  
+>**National Taiwan Normal University**
+>**Taipei, 10610, Taiwan**  
+>**[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)**  
+>**![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)**  
+>**Abstract**   
+>**The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**  
 
 ### Latest Version of the Rules for HuroCup
 The latest official version of the rules of the game for HuroCup is always available from the [HuroCup Facebook Page](https://www.google.com/url?q=http://www.facebook.com/groups/hurocup&sa=D&ust=1513997050530000&usg=AFQjCNHgafKaqOMm220w8yk9e88YjVmxaA).
@@ -51,27 +50,24 @@ The following laws describe the specifics of the marathon event. For general spe
 
 [MR-1.7]: The track contains several breaks. Each break is less than $B long.
 
-<table>
-    <imge>
-</table>
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.jpeg)
+|-|
+|Marathon Track|
 
 
-    |Dimension   |Comment        |Kid Size   |Adult Size     |U19
-    -------------+---------------+-----------+---------------+-----------
-    |$L          |Total Length   |421.95m    |421.95m        |100m
-    -------------+---------------+-----------+---------------+-----------
-    |$B          |Max. Length of |2.00m      |2.00m          |No break
-    |            |Break          |           |               |
-
+|Dimension   |Comment        |Kid Size   |Adult Size     |U19
+|:-|:-|:-|:-|:-|
+|$L          |Total Length   |421.95m    |421.95m        |100m
+|$B          |Max. Length of Break|2.00m      |2.00m          |No break
+    
 [MR-1.8]: At each break, the continuation of the track is indicated by a marker. The markers contain an arrow that will point in the direction of the turn or corner with a 90 degree angle. The markers are black on a white background or white on a black background. The size of the marker is 10cm * 10cm. A right marker is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22). A sample marathon track is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22).
 
-	
-<table>
-<imge>
-Marathon Marker and Plan
-</table>
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/4.png)![](https://github.com/cao-yan/rules/blob/master/marathon/img/5.png)
+|-|
+|Marathon Marker and Plan|
 
 Sample images for the markers are available Marker Forward, Marker Right, and Marker Left. Note that the actual competition markers may be different in size, colour, or shape.
+
 [MR-1.9]: Circumstances permitting, the marathon will be held outdoors during daylight hours. Robots must be able to compensate for varying lighting conditions, heat or cold, rain puddles, and uneven pavement.
 
 ### [MR-2]: Number of Robots
@@ -104,8 +100,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-6.7]: A robot finishes the race by completely crossing the finish plane with both feet. The finish plane is the plane which intersects the playing field at a 90 degree angle at the back of the finish line. The handler shall remove his/her robot as soon as possible after it has crossed the finish line to reduce interference with other robots.
 
-[MR-6.8]: The end of the competition is signaled by the referee by blowing the whistle a second time. The referee terminates the competition if
-
+[MR-6.8]: The end of the competition is signaled by the referee by blowing the whistle a second time. The referee terminates the competition if  
 1. either the maximum duration of the competition (1 hour) has elapsed,
 2. or all robots have crossed the finish line,
 3. or no more active robots remain in the competition.
@@ -128,7 +123,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-7.6]: Any team that commits one of the infractions listed in Fouls and Misconducts will be penalized by a 5m push back by the referee. The robot must be placed 5m back towards the start line along the track. If the robot is less than 5m ahead of the start line, the robot shall be placed behind the start line. This is subject to laws [MR-6.3](https://docs.google.com/document/d/1mC2gLOjVYGabGnAS96kaOjltj17cigHKygP_nKmUC_M/pub#id.qchs30m28018) and [MR-6.4](https://docs.google.com/document/d/1mC2gLOjVYGabGnAS96kaOjltj17cigHKygP_nKmUC_M/pub#id.c8lk5i4qp43m).
 
-[MR-8]: ** Method of Scoring**
+### [MR-8]: Method of Scoring
 
 [MR-8.1]: All robots that have not covered a maximum path distance of at least 30m along the track are automatically awarded no rank and 0 points.
 
@@ -136,7 +131,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-8.3]: For more details about the point allocation, please refer to Point Allocation [Organization - HuroCup Laws of the Game].
 
-[MR-9]: Tiebreaker
+### [MR-9]: Tiebreaker
 
 [MR-9.1]: In case two or more robots have the same maximum path distance within a single round, the robots will be ranked based on the faster time to reach the maximum path distance.
 
@@ -148,22 +143,29 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 This section contains the list of official world records for the HuroCup Robot marathon competition first introduced in the 2007 WorldCup competition.
 
-Kid Size
+Kid Size 
 
-    |Date               |Event              |Team           |Affiliation        |Time           |
-    --------------------+-------------------+---------------+-------------------+----------------
-    |18th Dec.2016      |FIRA World Cup,    |Ichiro 1       |Institut Teknologi |       35:21:00|
-    |                   |Beijing,China      |               |Sepuluh Nopember   |
-    
+|Date |Event |Team |Affiliation |Time |
+|:-|:-|:-|:-|-:|
+|18th Dec. 2016 |FIRA World Cup, Beijing, China |Ichiro 1 |Institut Teknologi Sepuluh Nopember Surabaya, Indonesia |35:21:00 (140.00 m) |
+|27th Oct 2013 |27th Oct 2013 |Kobots |Kookmin University |07:30.94 (120.00 m) |
+|20th July 2011 |WorldCup 2011, Kaohsiung, Taiwan |Team Plymouth |Plymouth University, U.K. |07:35.00 (84.390 m) |
+|25th July 2008 |WorldCup 2008, Qingdao, China |aiRobot |NCKU, Taiwan |04:35.00 (42.195 m) |
+|17th June 2007 |World Cup 2007, San Francisco, U.S.A. |Hansaram |KAIST, South Korea |37:30.00 (42.195 m) |
+ 
 Aduilt Size
+
+|Date |Event |Team |Affiliation |Time |
+|:-|:-|:-|:-|-:|
+|28th August 2012 |World Cup 2012, Bristol, U.K. |Evo Rocky |	Nanyang Polytechnic Singapore |19:29.00 (84.390 m) |
 
 ### Appendix Marathon Markers
 
 #### Marker Forward
-<image>
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/6.png)
 
 #### Marker Right
-<image>
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/7.png)
 
 #### Marker Left
-
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/8.png) 
