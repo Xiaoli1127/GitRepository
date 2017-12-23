@@ -62,8 +62,9 @@ The following laws describe the specifics of the marathon event. For general spe
     
 [MR-1.8]: At each break, the continuation of the track is indicated by a marker. The markers contain an arrow that will point in the direction of the turn or corner with a 90 degree angle. The markers are black on a white background or white on a black background. The size of the marker is 10cm * 10cm. A right marker is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22). A sample marathon track is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22).
 
-![](https://github.com/cao-yan/rules/blob/master/marathon/img/4.png)![](https://github.com/cao-yan/rules/blob/master/marathon/img/5.png)
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/4.png)
 |-|
+![](https://github.com/cao-yan/rules/blob/master/marathon/img/5.png)
 |Marathon Marker and Plan|
 
 Sample images for the markers are available Marker Forward, Marker Right, and Marker Left. Note that the actual competition markers may be different in size, colour, or shape.
@@ -109,7 +110,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-6.10]: Apart from [MR-6.7](https://docs.google.com/document/d/1mC2gLOjVYGabGnAS96kaOjltj17cigHKygP_nKmUC_M/pub#kix.c2f16jttlf4s), a robot is not allowed to interfere with another robot in any way. In case of multiple robots interfering with each other, the right of way goes to the faster robot.
 
-[MR-7]: Fouls and Misconduct
+### [MR-7]: Fouls and Misconduct
 
 [MR-7.1]: A robot is not allowed to leave the track. A robot is considered to have left the track if the distance between the current position of the robot and the closest point on the centre line to that position is more than 50cm.
 

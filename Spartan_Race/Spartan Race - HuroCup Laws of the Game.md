@@ -2,11 +2,11 @@
 ----------
 #### Version: 15.1.1 Date: Sun May 21 2017 19:53:22 GMT-0500 (CDT)
 
-<image>
+![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_1.png)![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_2.png)
 ### HuroCup Laws of the Game
 ### Spartan Race (Pro)
-
->**1Jacky Baltes and 2Kuo-Yang Tu**  
+    
+>**1Jacky Baltes and ^2Kuo-Yang Tu**  
 >**1Educational Robotics Center**  
 >**Department of Electrical Engineering**  
 >**National Taiwan Normal University**
@@ -15,8 +15,7 @@
 >**2Institute of Electrical Engineering**  
 >**National Kaohsiung First University of Science & Technology**  
 >**[tuky@nkfust.edu.tw](tuky@nkfust.edu.tw)**  
-<image>
->**15894864_10154254514854849_5856475613796498297_n.jpg**  
+>**![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/2.png)**  
 >**Abstract**  
 >**The following rules and regulations govern the spartan race event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**
 
@@ -50,21 +49,21 @@ The following laws describe the specifics of the spartan race event. For general
 
 [SR-1.5]: The thickness of a single sheet is $H.
 
-<image>
+>![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/3.png)
+>
+>|Dimension |Comment |Kid Size |Adult Size |
+>|:-|-|-:|-:|
+>|$L |Length of Uneven Terrain |3m |3 m |
+>|$W |Width of Uneven Terrain |3m |3m |
+>|$H |Height of Sheets |15mm - 25mm |15mm - 25mm |
+>|$CD |Diameter of coins |30mm - 60mm |30mm - 60 mm |
+>|$CT|Thickness of coins |< 8mm |< 8mm |
+>
+>Uneven Terrain </br> The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.
 
-|Dimension |Comment |Kid Size |Adult Size |
-|:-|-|-:|-:|
-|$L |Length of Uneven Terrain |3m |3 m |
-| | | | |
-
-
-Uneven Terrain
-
-The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.
-
-Uneven Terrain
-
-A sample uneven terrain playing field for the lift and carry event.
+![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/4.png)
+|-|
+|Uneven Terrain</br>A sample uneven terrain playing field for the lift and carry event.|
 
 [SR-1.6]: The uneven terrain is constructed by placing random cut-outs of the sheets on top of each other. The cut-outs may contain holes.  The exact shape of the uneven terrain is determined by the local organizing chair.
 
@@ -72,11 +71,19 @@ A sample uneven terrain playing field for the lift and carry event.
 
 [SR-1.8]: The sheets are colour coded, that is sheets at different heights have different colours as shown in Figure [Uneven Terrain](https://docs.google.com/document/d/1mh1xXGr970a3S0qakOopx7g8n-JDd2HS7DaYFoopPfo/pub#id.d06beo3fm8xk).
 
-The Ladder and Rope
+>![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/5.png)
+>The Ladder and Rope
 
-
->**image**
->**Dimensions of Ladder and Rope.**
+>|Name |Comment |Kid Size |Adult Size |
+>|:- |:- |-: |-: |
+>|$W |Width of Ladder |40cm to 60cm |40cm to 60cm |
+>|$RD |	Rung Spacing |10cm - 20cm |20cm - 40cm |
+>|$A |Angle to Floor |45 degree |45 degree |
+>|$SD |	Distance from Start to Wall |20cm |50cm |
+>|$PD |Rope Height above top rung of the ladder |30cm |50cm |
+>|$PL |Rope Length |250cm - 350cm |250cm - 350cm |
+>
+>Dimensions of Ladder and Rope.
 
 [SR-1.9]: The dimensions of the region for ladder and rope are at least 200 cm by 200 cm as shown in Figure [Ladder and Rope](https://docs.google.com/document/d/1mh1xXGr970a3S0qakOopx7g8n-JDd2HS7DaYFoopPfo/pub#kix.ud5kjrh7h0c8).
 
