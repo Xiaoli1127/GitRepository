@@ -11,7 +11,9 @@
 <center>National Taiwan Normal University</center>
 <center>Taipei, 10610, Taiwan</center>
 <center>[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw) </center>
+
 ![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)
+
 <center>Abstract</center>
 <center>The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots</center>.
 
