@@ -48,18 +48,19 @@ The following laws describe the specifics of the spartan race event. For general
 [SR-1.4]: The width of the uneven terrain is approximately $W.
 
 [SR-1.5]: The thickness of a single sheet is $H.
-  
-  ![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/3.png)
-  |-|
 
-  |Dimension |Comment |Kid Size |Adult Size |
-  |:-|-|-:|-:|
-  |$L |Length of Uneven Terrain |3m |3 m |
-  | | | | |
+>![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/3.png)
 
-Uneven Terrain
+>|Dimension |Comment |Kid Size |Adult Size |
+>|:-|-|-:|-:|
+>|$L |Length of Uneven Terrain |3m |3 m |
+>|$W |Width of Uneven Terrain |3m |3m |
+>|$H |Height of Sheets |15mm - 25mm |15mm - 25mm |
+>|$CD |Diameter of coins |30mm - 60mm |30mm - 60 mm |
+>|$CT|Thickness of coins |< 8mm |< 8mm |
+>
+>**Uneven Terrain   The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.**
 
-The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.
 
 Uneven Terrain
 
