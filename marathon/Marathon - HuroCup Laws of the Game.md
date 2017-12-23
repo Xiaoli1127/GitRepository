@@ -100,8 +100,7 @@ Robots are usually assigned start numbers roughly based on their performance in 
 
 [MR-6.7]: A robot finishes the race by completely crossing the finish plane with both feet. The finish plane is the plane which intersects the playing field at a 90 degree angle at the back of the finish line. The handler shall remove his/her robot as soon as possible after it has crossed the finish line to reduce interference with other robots.
 
-[MR-6.8]: The end of the competition is signaled by the referee by blowing the whistle a second time. The referee terminates the competition if
-
+[MR-6.8]: The end of the competition is signaled by the referee by blowing the whistle a second time. The referee terminates the competition if  
 1. either the maximum duration of the competition (1 hour) has elapsed,
 2. or all robots have crossed the finish line,
 3. or no more active robots remain in the competition.
