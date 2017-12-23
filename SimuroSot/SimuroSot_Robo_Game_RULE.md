@@ -21,40 +21,43 @@ forward.
     - The simulate competition uses four computers (Ubuntu 14.04 operation system installed), Computer A used as
 server, Computer B, C used as clients, Computer D used as referee.
     - A switch is used to connect 4 computers through Ethernet.
-<image>Figure 5.1 SimuroSot Robo game software framework
+![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/1.png)  Figure 1 SimuroSot Robo game software framework
 4. Simulate competition software framework:
     - Simulate competition software is based on ROS jade, Gazebo 5 and QT5.
-    - Figure 5.1 is the SimuroSot Robo game software framework :28 Feb, 2017
+    - Figure 5.1 is the SimuroSot Robo game software framework :
     - The role of referee is:
     - to control the begin, break and finish of the game;
     - to declare penalty to the fouls.
 
 ### 2. The Field
-1. Playground dimensions  
-A green blanket rectangular playground 400(cm) x 600(cm) in size surrounded by a bordering region of minimum
-width 75cm, with 5(cm) thick white side-walls will be used. Solid 25(cm) x 25(cm) isosceles triangles shall be fixed at
-the four corners of the playground to avoid the ball getting cornered.
+1. Playground dimensions   
+A green blanket rectangular playground 400(cm) x 600(cm) in size surrounded by a bordering region of minimum width 75cm,with 5(cm) thick white side-walls will be used. Solid 25(cm) x 25(cm) isosceles triangles shall be fixed at the four corners of the playground to avoid the ball getting cornered.
+![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/2.png) 
+
 2. Markings on the playground  
-The field of play shall be marked as shown in Appendix 2. The center circle will have a radius of 60(cm). The arc,
-which is part of the goal area, will be 130(cm) along the goal line and 24(pixel) perpendicular to it. The major
-lines/arcs (centerline, goal area borderlines and the center circle) will be gray in color and 5(cm) in thick.
+The field of play shall be marked as shown in Appendix 2. The center circle will have a radius of 60(cm). The arc, which is part of the goal area, will be 130(cm) along the goal line and 24(pixel) perpendicular to it. The major lines/arcs (centerline, goal area borderlines and the center circle) will be gray in color and 5(cm) in thick.
+
 3. The goal  
-The goal shall be 160 (cm)*50(cm)*75(cm) . A 3cm*3cm crossbar is placed acrosss the front top of the box
-representing the upper bar of a soccer goal. To distinguish and identify them the goals shall be painted in blue ( navy
-blue) and yellow colors. The goalposts and crossbars must be white.28 Feb, 2017
+The goal shall be 160 (cm)*50(cm)*75(cm) . A 3cm*3cm crossbar is placed acrosss the front top of the box representing the upper bar of a soccer goal. To distinguish and identify them the goals shall be painted in blue ( navy blue) and yellow colors. The goalposts and crossbars must be white.
+
 4. The goal area  
 The goal area will be 160cm wide, 40cm deep and positioned directly in front of each goal.
+
 5. The ball  
 Each team has to be able to play with any orange FIFA standard 5 football at any time.
+
 6. The robots  
-The robots shall be limited to a maximum of 45(cm) x 45(cm). Each robot is in team’s clothe which can be chosen
-before the match.
+The robots shall be limited to a maximum of 45(cm) x 45(cm). Each robot is in team’s clothe which can be chosen before the match.
+
 7. The field location  
 The field is at the center of the screen.
+
 8. The control menu  
 The control menu is at the top and the bottom of the field.
+
 9. The clock  
 The clock is at the left of the menu.
+
 10. The score board  
 The score board is at right of the menu.  
 
