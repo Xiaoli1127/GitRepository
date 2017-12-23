@@ -2,7 +2,7 @@
 ----------
 #### Version: 15.1.1 Date: Sun May 21 2017 19:53:22 GMT-0500 (CDT)
 
-<image>
+![](../image/1.png)
 ### HuroCup Laws of the Game
 ### Spartan Race (Pro)
 
