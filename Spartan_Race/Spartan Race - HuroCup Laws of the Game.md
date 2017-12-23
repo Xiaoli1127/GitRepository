@@ -74,6 +74,17 @@ The following laws describe the specifics of the spartan race event. For general
 >![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/5.png)
 >The Ladder and Rope
 
+>|Name |Comment |Kid Size |Adult Size |
+>|:- |:- |-: |-: |
+>|$W |Width of Ladder |40cm to 60cm |40cm to 60cm |
+>|$RD |	Rung Spacing |10cm - 20cm |20cm - 40cm |
+>|$A |Angle to Floor |45 degree |45 degree |
+>|$SD |	Distance from Start to Wall |20cm |50cm |
+>|$PD |Rope Height above top rung of the ladder |30cm |50cm |
+>|$PL |Rope Length |250cm - 350cm |250cm - 350cm |
+>
+>Dimensions of Ladder and Rope.
+
 [SR-1.9]: The dimensions of the region for ladder and rope are at least 200 cm by 200 cm as shown in Figure [Ladder and Rope](https://docs.google.com/document/d/1mh1xXGr970a3S0qakOopx7g8n-JDd2HS7DaYFoopPfo/pub#kix.ud5kjrh7h0c8).
 
 [SR-1.10]: At one end of the uneven terrain, there is a ladder made out of wood or metal or other suitable material.
