@@ -5,12 +5,11 @@
 ## HuroCup Laws of the Game
 ## Marathon (Pro/U19)
 
-Jacky Baltes
-Educational Robotics Center
-Department of Electrical Engineering
-National Taiwan Normal University
-Taipei, 10610, Taiwan
-[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)
+>**Jacky Baltes**
+>**Educational Robotics Center**
+>**Department of Electrical Engineering**
+>**National Taiwan Normal UniversityTaipei, 10610, Taiwan**
+>**[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)**
 
 ![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)
 
@@ -49,7 +48,7 @@ The following laws describe the specifics of the marathon event. For general spe
 
 [MR-1.7]: The track contains several breaks. Each break is less than $B long.
 
-|![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.png)	|
+| >![](https://github.com/cao-yan/rules/blob/master/marathon/img/3.png)	|
 |-|
 |Marathon Track|
 
