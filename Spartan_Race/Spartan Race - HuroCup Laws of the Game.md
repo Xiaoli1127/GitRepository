@@ -2,7 +2,7 @@
 ----------
 #### Version: 15.1.1 Date: Sun May 21 2017 19:53:22 GMT-0500 (CDT)
 
-![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1.png)
+![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_1.png)![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_2.png)
 ### HuroCup Laws of the Game
 ### Spartan Race (Pro)
 
@@ -15,8 +15,8 @@
 >**2Institute of Electrical Engineering**  
 >**National Kaohsiung First University of Science & Technology**  
 >**[tuky@nkfust.edu.tw](tuky@nkfust.edu.tw)**  
-<image>
->**15894864_10154254514854849_5856475613796498297_n.jpg**  
+
+![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/2.png) 
 >**Abstract**  
 >**The following rules and regulations govern the spartan race event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**
 
@@ -50,7 +50,7 @@ The following laws describe the specifics of the spartan race event. For general
 
 [SR-1.5]: The thickness of a single sheet is $H.
 
-<image>
+![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/3.png)
 
 |Dimension |Comment |Kid Size |Adult Size |
 |:-|-|-:|-:|
