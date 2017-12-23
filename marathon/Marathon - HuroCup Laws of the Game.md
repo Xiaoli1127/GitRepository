@@ -11,7 +11,8 @@
 >**Jacky Baltes**  
 >**Educational Robotics Center**  
 >**Department of Electrical Engineering**  
->**National Taiwan Normal UniversityTaipei, 10610, Taiwan**  
+>**National Taiwan Normal University**
+>**Taipei, 10610, Taiwan**  
 >**[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)**  
 >**![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)**  
 >**Abstract**   
