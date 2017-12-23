@@ -5,21 +5,14 @@
 ## HuroCup Laws of the Game
 ## Marathon (Pro/U19)
 
->**Jacky Baltes**
-
->**Educational Robotics Center**
-
->**Department of Electrical Engineering**
-
->**National Taiwan Normal UniversityTaipei, 10610, Taiwan**
-
->**[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)**
-
->**![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)**
-
->**Abstract**
-
->**The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**
+>**Jacky Baltes**  
+>**Educational Robotics Center**  
+>**Department of Electrical Engineering**  
+>**National Taiwan Normal UniversityTaipei, 10610, Taiwan**  
+>**[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)**  
+>**![](https://github.com/cao-yan/rules/blob/master/marathon/img/2.png)**  
+>**Abstract**   
+>**The following rules and regulations govern the marathon event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**  
 
 ### Latest Version of the Rules for HuroCup
 The latest official version of the rules of the game for HuroCup is always available from the [HuroCup Facebook Page](https://www.google.com/url?q=http://www.facebook.com/groups/hurocup&sa=D&ust=1513997050530000&usg=AFQjCNHgafKaqOMm220w8yk9e88YjVmxaA).
@@ -58,13 +51,11 @@ The following laws describe the specifics of the marathon event. For general spe
 |Marathon Track|
 
 
-    |Dimension   |Comment        |Kid Size   |Adult Size     |U19
-    -------------+---------------+-----------+---------------+-----------
-    |$L          |Total Length   |421.95m    |421.95m        |100m
-    -------------+---------------+-----------+---------------+-----------
-    |$B          |Max. Length of |2.00m      |2.00m          |No break
-    |            |Break          |           |               |
-
+|Dimension   |Comment        |Kid Size   |Adult Size     |U19
+|:-|:-|:-|:-|:-|
+|$L          |Total Length   |421.95m    |421.95m        |100m
+|$B          |Max. Length of Break|2.00m      |2.00m          |No break
+    
 [MR-1.8]: At each break, the continuation of the track is indicated by a marker. The markers contain an arrow that will point in the direction of the turn or corner with a 90 degree angle. The markers are black on a white background or white on a black background. The size of the marker is 10cm * 10cm. A right marker is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22). A sample marathon track is shown in [Marathon Marker and Plan](file:///home/wangxinxin/%E6%A1%8C%E9%9D%A2/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.html#id.wvibrwm18p22).
 
 	
@@ -152,20 +143,27 @@ This section contains the list of official world records for the HuroCup Robot m
 
 Kid Size
 
-    |Date               |Event              |Team           |Affiliation        |Time           |
-    --------------------+-------------------+---------------+-------------------+----------------
-    |18th Dec.2016      |FIRA World Cup,    |Ichiro 1       |Institut Teknologi |       35:21:00|
-    |                   |Beijing,China      |               |Sepuluh Nopember   |
+|Date |Event |Team |Affiliation |Time |
+|:-|:-|:-|:-|-:|
+|18th Dec. 2016 |FIRA World Cup, Beijing, China |Ichiro 1 |Institut Teknologi Sepuluh Nopember Surabaya, Indonesia |35:21:00 (140.00 m) |
+|27th Oct 2013 |27th Oct 2013 |Kobots |Kookmin University |07:30.94 (120.00 m) |
+|20th July 2011 |WorldCup 2011, Kaohsiung, Taiwan |Team Plymouth |Plymouth University, U.K. |07:35.00 (84.390 m) |
+|25th July 2008 |WorldCup 2008, Qingdao, China |aiRobot |NCKU, Taiwan |04:35.00 (42.195 m) |
+|17th June 2007 |World Cup 2007, San Francisco, U.S.A. |Hansaram |KAIST, South Korea |37:30.00 (42.195 m) |
     
 Aduilt Size
+
+|Date |Event |Team |Affiliation |Time |
+|:-|:-|:-|:-|-:|
+|28th August 2012 |World Cup 2012, Bristol, U.K. |Evo Rocky |	Nanyang Polytechnic Singapore |19:29.00 (84.390 m) |
 
 ### Appendix Marathon Markers
 
 #### Marker Forward
-<image>
+>**![](https://github.com/cao-yan/rules/blob/master/marathon/img/6.png)** 
 
 #### Marker Right
-<image>
+>**![](https://github.com/cao-yan/rules/blob/master/marathon/img/7.png)** 
 
 #### Marker Left
-
+>**![](https://github.com/cao-yan/rules/blob/master/marathon/img/8.png)** 
