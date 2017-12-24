@@ -51,6 +51,7 @@ In this mission, the drone has to land to a specific location while flies throug
 5. Return and land on starting point: Drone has to follow the path it traveled to get back to the starting point. In this section, the number of correctly followed paths and landing accuracy on the marker of starting point defines the amount of score.
 
 The following table shows scores of each mission element:
+
 |Number |Mission element |Score|
 |:-:|:-|:-|
 |1 |Takeoff & Hovering |1 point for hovering (5 seconds) |
@@ -64,7 +65,7 @@ The goal of this mission is the automatic inspection of equipment that is instal
 
 The electric tower insulators are simulated according to the picture below. There are several QR codes installed on sides of these two cubes, and the drone should read these codes by taking images in different angles.
 
->![](https://github.com/cao-yan/rules/blob/master/SiuroSot/image/3_2.png)  
+>![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_2.png)  
 >Figure 2, Electricity pylons model.
 
 The residential tower is shaped like a cuboid, and there are several QR codes located on different sides of it. Some of these QRs contains victim information as well as the environment temperature and some others, only contains the temperature of the environment. A team will score by reporting information of the victims. Temperatures written inside each QR code are showing the temperatures of building in that location. Hence reporting the hottest and coolest locations of the building will result in getting additional points as well. So, you should keep these information in a separate file.
@@ -81,6 +82,7 @@ result in score for this mission element.
 6. Return and land on starting point: Drone has to follow the path it has traveled to get back to the starting point. In this section, the correctness of path and precision of landing on the marker defines the amount of score.
 
 The following table shows scores of each mission elements:
+
 |Number |Mission element |Score |
 |:-: |:- |:- |
 |1 |Reaching electric tower |2 points for following the known path |
