@@ -45,22 +45,19 @@ The goal shall be 40cm wide. The goal line is the line just in front of the goal
 
 ## 3 Game Component & Processing
 
-####3.1. Duration
+#### 3.1. Duration
 
-The duration of a game shall be two equal periods of 5 minutes each, with a half time interval for 10 minutes. Anofficial timekeeper will pause the stopwatch during substitutions, during timeout and during such situations that28 Feb, 2017
-deem to be right as per the discretion of the timekeeper.
+The duration of a game shall be two equal periods of 5 minutes each, with a half time interval for 10 minutes. Anofficial timekeeper will pause the stopwatch during substitutions, during timeout and during such situations that deem to be right as per the discretion of the timekeeper.
 
 If a team is not ready to resume the game after the halftime, additional 5 minutes shall be given. If the team is stillnot ready to continue the game after the additional time, the team will be disqualified from the game.
 
 ## 4 The 1st challenge event
-
 In this event, the obstacle position are given by the server when client program first get up. You need to make agood control of you robot motion to avoid the obstacle. And you may also make a good path planning strategy.
 
 - The event contain four scenery, For each scenery, the team will have three test, the average score will be
 the final score.
 
 #### 4.1. Scenery 1
-
 There are 3 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines.
 
 #### 4.2. Scenery 2
@@ -79,7 +76,7 @@ In this event, the obstacle position are NOT given. You need to control your rob
 the final score of the scenery.
 
 #### 5.1. Scenery 1
-There are 3 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines. But the actually location is unknown.You need to avoid the obstacle according to your vision.28 Feb, 2017
+There are 3 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines. But the actually location is unknown.You need to avoid the obstacle according to your vision.
 
 #### 5.2. Scenery 2
 There are 6 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines. each line has two obstacle. But theactually location is unknown. And you need to avoid it according to your vision.
@@ -90,7 +87,7 @@ There are 6 obstacle randomly located in the ground. And the actually location i
 #### 5.4. Scenery 4
 There are 5 obstacle, two at the 1/4 lines, two at the 3/4 lines. one in the half lines and the middle one willrandomly moving along the lines. The actually location of static obstacle is unknown. And you need to avoid itaccording to your vision.
 
-##6 Game Commencement
+## 6 Game Commencement
 Before the commencement of each scenery, all team need to copy their code to the client computer. And the team match sequence shall be determined by a draw. Before the beginning of each scenery, the team is allowed to change its program.For a scenery, the position of obstacle may different for different test case. The actually test case is also determined by a draw.
 
 ## 7 End of the Game
@@ -101,7 +98,7 @@ Every match is controlled by a referee who has full authority to enforce the Law
 
 -Enforces the Laws of the Game.
 
--Controls the match possibly in co-operation with assistant referees.28 Feb, 2017
+-Controls the match possibly in co-operation with assistant referees.
 
 -Stops, suspends or terminates the match, at his discretion, for an infringements of the Laws
 
@@ -116,3 +113,21 @@ Every match is controlled by a referee who has full authority to enforce the Law
 ## 9 Method of Scoring
 #### 9.1. The winner
 The team with the highest score will be the winner.
+
+#### 9.2. Score for Challenge One
+|Scenery |Obstacle placement |score |
+|:-|:-|:-|
+|1 |3 obstacle in 3 lines |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+|2 |6 obstacle in 3 lines, each 2 |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+|3 |5 obstacle in 3 lines, center moving |max 15 points. 11 points for avoiding all obstacle; 7 points for avoiding all but moving obstacle, and arring the target. 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+|4 |6 obstacle in random location |max 15 points. 11 points for avoiding all obstacle, 8 points for avoiding all but one obstacle, 5 points for avoiding all but two points, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+
+#### 9.2. Score for Challenge Two
+|Scenery |Obstacle placement |score |
+|:- |:- |:- |
+|1 |3 obstacle in 3 lines |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+|2 |6 obstacle in 3 lines, each 2 |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+|3 |5 obstacle in 3 lines, center moving |max 15 points. 11 points for avoiding all obstacle; 7 points for avoiding all but moving obstacle, and arring the target. 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+|4 |6 obstacle in random location |max 15 points. 11 points for avoiding all obstacle, 8 points for avoiding all but one obstacle, 5 points for avoiding all but two points, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+
+In the event of a tie.
