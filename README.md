@@ -8,6 +8,7 @@
 + [Basketball](https://github.com/cao-yan/rules/blob/master/basketball/ahg.md)
 + [Marathon](https://github.com/cao-yan/rules/blob/master/marathon/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [Obstacle Run](https://github.com/cao-yan/rules/blob/master/obstacle%20run/obstacle%20run.md)
++ [Archery](https://github.com/cao-yan/rules/blob/master/Archery/Archery.md)
 + [SimuroSot Robo Challenge Obstacle Avoidance](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Challenge_Obstacle_Avoidance.md)
 + [SimuroSot Robo Game RULE](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Game_RULE.md)
 + [SimuroSot Air](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Air.md)
