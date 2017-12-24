@@ -58,7 +58,7 @@ The following table shows scores of each mission element:
 |2 |Navigating to destination |2 points for each correct street traveled (till next the crossroad) |
 |3 |Collision avoidance |1 point for each correct obstacle avoidance |
 |4 |Landing on the destination |4 points for distance less than 20cm </br>3 points for distance less than 30cm </br>2 point for distance less than 50cm|
-|5 |Return and land on starting point 2 points for each correct street traveled (till next the crossroad) </br>2 points for landing on the marker||
+|5 |Return and land on starting point |2 points for each correct street traveled (till next the crossroad) </br>2 points for landing on the marker||
 
 ## 5 Mission 2: Tower Inspection
 The goal of this mission is the automatic inspection of equipment that is installed in high altitude and couldn't be reached easily. Inspection of electric tower insulators and searching for victims of a fire accident (occurred in a residential tower) are scenarios that are going to be simulated in this mission.
@@ -96,9 +96,7 @@ The following table shows scores of each mission elements:
 ## 6 Method of Scoring
 The score of a mission depends on the performance of drone. It will be calculated using the formula below:
 
-![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-
-M ission Score : ∑ (S i )i
+![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_3.png)
 
 In this formula, i is the mission element number, S i is the achieved score in that mission element.
 
