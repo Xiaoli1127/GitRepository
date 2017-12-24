@@ -1,16 +1,16 @@
 # SimuroSot Robo Challenge Obstacle Avoidance
 ----------
-###Testing Time
+### Testing Time
 Before the game starts, each team will have an independent 2-minutes testing time by turns.
 ### Mainly
 Each team needs to complete a series challenge three times.
 ### Field
-A white rectangle is the competition field of avoidance challenge, which is sized 300cm*600cm, shown
-as Fig. 1.
+A white rectangle is the competition field of avoidance challenge, which is sized 300cm*600cm, shown as Fig. 1.
 ### Obstacles placing rules:
-The obstacle is a cube with 50cm*50cm*50cm. The obstacle placement will be different with different
-scenery and different challenge.
-Figure 6.1 Field for SimuroSot Robo Challenge.  
+The obstacle is a cube with 50cm*50cm*50cm. The obstacle placement will be different with different scenery and different challenge.
+
+>![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/2_1.png)
+>Figure 1 Field for SimuroSot Robo Challenge.  
 
 <image>
 
