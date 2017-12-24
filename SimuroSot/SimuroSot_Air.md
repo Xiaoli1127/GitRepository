@@ -30,10 +30,10 @@ For focusing on the development of software algorithms, and providing the same c
 2. Obstacles
 3. Emergency Delivery (Landing) Location
 4. Electricity pylons inspections
-5. Tower inspection28 Feb, 2017
+5. Tower inspection
 
-<image>
-Figure 1, a schema of the playing field.
+>![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_1.png)  
+>Figure 1, a schema of the playing field.
 
 
 Streets have a particular color with a dashed line in the middle. These roads are connected to each
@@ -45,35 +45,52 @@ mission elements which show the starting point, landing point, and towers locati
 In this mission, the drone has to land to a specific location while flies through a particular path and avoids any collision with obstacles. After landing, it should return to the starting point. This mission consist of the following elements:
 
 1. Takeoff and Hovering: Drone should be kept steady in a fixed space after taking off for 5 seconds. If drone drifts more than 1 meter or lose its balance during this time, corresponding team will not get any score for this takeoff.
-2. Visual navigation: ​ In this section, the drone will follow the streets to the destination. After reaching a crossroad, scanning the QR code defines the next path. The score of this mission element is calculated based on the number of followed streets. If the next path isn’t recognized correctly in a crossroad, the team will not achieve any score till the next crossroad.
-3. Collision avoidance: ​ There are several obstacles in the environment and drone must identify and avoid them by changing its altitude. Crossing each detected obstacle without any collision will result in score.
-4. Landing on the destination: ​ The Landing destination is marked on the ground. Drone should land on the marker and fly again. The distance between the center of the marker and the place where drone landed will28 Feb, 2017 define the score of this section.
+2. Visual navigation:  In this section, the drone will follow the streets to the destination. After reaching a crossroad, scanning the QR code defines the next path. The score of this mission element is calculated based on the number of followed streets. If the next path isn’t recognized correctly in a crossroad, the team will not achieve any score till the next crossroad.
+3. Collision avoidance:  There are several obstacles in the environment and drone must identify and avoid them by changing its altitude. Crossing each detected obstacle without any collision will result in score.
+4. Landing on the destination:  The Landing destination is marked on the ground. Drone should land on the marker and fly again. The distance between the center of the marker and the place where drone landed will define the score of this section.
 5. Return and land on starting point: Drone has to follow the path it traveled to get back to the starting point. In this section, the number of correctly followed paths and landing accuracy on the marker of starting point defines the amount of score.
 
 The following table shows scores of each mission element:
-|||||
+
+|Number |Mission element |Score|
+|:-:|:-|:-|
+|1 |Takeoff & Hovering |1 point for hovering (5 seconds) |
+|2 |Navigating to destination |2 points for each correct street traveled (till next the crossroad) |
+|3 |Collision avoidance |1 point for each correct obstacle avoidance |
+|4 |Landing on the destination |4 points for distance less than 20cm </br>3 points for distance less than 30cm </br>2 point for distance less than 50cm|
+|5 |Return and land on starting point |2 points for each correct street traveled (till next the crossroad) </br>2 points for landing on the marker||
 
 ## 5 Mission 2: Tower Inspection
 The goal of this mission is the automatic inspection of equipment that is installed in high altitude and couldn't be reached easily. Inspection of electric tower insulators and searching for victims of a fire accident (occurred in a residential tower) are scenarios that are going to be simulated in this mission.
 
-The electric tower insulators are simulated according to the picture below. There are several QR codes installed on sides of these two cubes, and the drone should read these codes by taking images in different angles.28 Feb, 2017
+The electric tower insulators are simulated according to the picture below. There are several QR codes installed on sides of these two cubes, and the drone should read these codes by taking images in different angles.
 
-<image>
-Figure 2, Electricity pylons model.
+>![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_2.png)  
+>Figure 2, Electricity pylons model.
 
 The residential tower is shaped like a cuboid, and there are several QR codes located on different sides of it. Some of these QRs contains victim information as well as the environment temperature and some others, only contains the temperature of the environment. A team will score by reporting information of the victims. Temperatures written inside each QR code are showing the temperatures of building in that location. Hence reporting the hottest and coolest locations of the building will result in getting additional points as well. So, you should keep these information in a separate file.
 
 Details of this mission are as follows:
 
-1. Reaching electric tower: ​ Reaching electric tower: After taking off from the starting point, the drone moves toward the location of the electrical tower. The electrical tower is located at the end of a predefined street. In this situation, the address of the power tower is known, and there is no need to decode QR codes in Street crossroads.
-2. Insulator scan: ​ The drone should identify QR codes installed on insulator model and report them. This procedure should be done by taking pictures in different angles of the tower.
-3. Reaching residential tower: ​ Like the first element, the drone has to traverse a predefined path between the electrical tower and the residential tower. This route is fixed and known.
-4. Searching for victims: ​ The drone will scan different locations of the tower to find QR codes and read them to identify victims. Reading QR codes that don't contain any meaningful information about victims will not result in score for this mission element.
+1. Reaching electric tower: Reaching electric tower: After taking off from the starting point, the drone moves toward the location of the electrical tower. The electrical tower is located at the end of a predefined street. In this situation, the address of the power tower is known, and there is no need to decode QR codes in Street crossroads.
+2. Insulator scan: The drone should identify QR codes installed on insulator model and report them. This procedure should be done by taking pictures in different angles of the tower.
+3. Reaching residential tower: Like the first element, the drone has to traverse a predefined path between the electrical tower and the residential tower. This route is fixed and known.
+4. Searching for victims: The drone will scan different locations of the tower to find QR codes and read
+them to identify victims. Reading QR codes that don't contain any meaningful information about victims will not
+result in score for this mission element.
 5. Identifying the center of the fire: The team will achieve the score of this mission element if the drone reports the location of hottest and coolest spots of the building.
-6. Return and land on starting point: ​ Drone has to follow the path it has traveled to get back to the starting point. In this section, the correctness of path and precision of landing on the marker defines the amount of score.
+6. Return and land on starting point: Drone has to follow the path it has traveled to get back to the starting point. In this section, the correctness of path and precision of landing on the marker defines the amount of score.
 
 The following table shows scores of each mission elements:
-|||||
+
+|Number |Mission element |Score |
+|:-: |:- |:- |
+|1 |Reaching electric tower |2 points for following the known path |
+|2 |Insulator scan |1 point for reading each QR code |
+|3 |Reaching residential tower |2 points for following the known path |
+|4 |Searching for victims |1 point for reading each QR code that contain victim information |
+|5 |Identifying the center of the fire |1 points for detection of the hottest spot </br>1 points for detection of the coolest spot |
+|6 |Return and land on starting point |2 points for correctly following the path </br>2 points for landing on the marker |
 
 
 ## 6 Method of Scoring
