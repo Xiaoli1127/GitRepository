@@ -1,6 +1,6 @@
 Version: 14.0.3 Date: Thu Dec 22 2016 10:43:57 GMT+0800 (HKT)
 
-![]()  
+![](https://github.com/cao-yan/rules/blob/master/obstacle%20run/pic1)  
 ## HuroCup Laws of the Game  
 ## Obstacle Run
 
@@ -8,7 +8,7 @@ Version: 14.0.3 Date: Thu Dec 22 2016 10:43:57 GMT+0800 (HKT)
 >Educational Robotics Center  
 >Department of Electrical Engineering  
 >National Taiwan Normal University, Taipei, 10610, Taiwan  
->![]()  
+>![](https://github.com/cao-yan/rules/blob/master/obstacle%20run/pic2)  
 >Abstract  
 >The following rules and regulations govern the obstacle run event of HuroCup, a robotic game and robotics benchmark problem >for humanoid robots.
 
@@ -27,7 +27,7 @@ The following laws describe the specifics of the obstacle run event. For general
 # [OR-1]: Field of Play  
 [OR-1.1]: The dimensions of the playing field are at least 300 cm by 400 cm.  
 [OR-1.2]: There is a finish line marked on one side of the playing field. This side of the playing field is called the finish side. The opposite side of the playing field is called the start side. The two other sides are called side lines. The field of play is shown in Obstacle Run Field of Play.  
-![]()  
+![](https://github.com/cao-yan/rules/blob/master/obstacle%20run/pic3)  
 
 | Dimension| Comment | Kid Size| Adult Size|
 | --- | --- | --- | --- |
@@ -46,7 +46,8 @@ The following laws describe the specifics of the obstacle run event. For general
 [OR-2.1]: A hole obstacle is an obstacle on the playing field. The shape and size of the hole obstacles is undefined. The colour of a hole obstacle is yellow.  
 [OR-2.2]: A wall obstacle is an obstacle that is placed on the floor and has a height of approximately 30cm. It has a minimum length of 40cm. The colour of a wall obstacle is blue (see Wall and Gate Obstacles).  
 [OR-2.3]: A gate obstacle is an obstacle that is placed at a height of approximately 30cm. It has a minimum length of 50cm. The colour of a gate obstacle is red (see Wall and Gate Obstacles).  
-![]() ![]()
+![](https://github.com/cao-yan/rules/blob/master/obstacle%20run/pic4)  
+![](https://github.com/cao-yan/rules/blob/master/obstacle%20run/pic5)  
 Wall and Gate Obstacles  
 [OR-2.4]: The referee or a person designated by the referee places at least five wall obstacles, one gate, and one hole obstacle at random positions in the playing field.  
 [OR-2.5]: The obstacles will be placed using the following constraints: (a) a circular region with a radius of at least $C around the starting point is free of obstacles, (b) at least one of the obstacles shall be in the direct path of the robot to the finish line, (c ) there is at least one free walkable path from the start point to the finish line. That is, a circle with a diameter of $S can be moved from the start point to the finish line without touching any obstacle or passing underneath or over any of the obstacles. Note that this does not imply that the minimum distance between two obstacles is at least $S. Some obstacles may be closer together than $S as can be seen in Obstacle Run Field of Play.  
