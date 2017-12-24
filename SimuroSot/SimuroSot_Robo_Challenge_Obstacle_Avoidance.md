@@ -72,8 +72,7 @@ There are 5 obstacle, two at the 1/4 lines, two at the 3/4 lines. one in the hal
 ## 5 The 2nd challenge event
 In this event, the obstacle position are NOT given. You need to control your robot to avoid the obstacle by usingonly the camera on your robot.
 
-- The event contain four scenery, For each scenery, the team will have three test, the average score will be
-the final score of the scenery.
+- The event contain four scenery, For each scenery, the team will have three test, the average score will be the final score of the scenery.
 
 #### 5.1. Scenery 1
 There are 3 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines. But the actually location is unknown.You need to avoid the obstacle according to your vision.
