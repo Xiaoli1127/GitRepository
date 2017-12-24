@@ -30,10 +30,10 @@ For focusing on the development of software algorithms, and providing the same c
 2. Obstacles
 3. Emergency Delivery (Landing) Location
 4. Electricity pylons inspections
-5. Tower inspection28 Feb, 2017
+5. Tower inspection
 
-<image>
-Figure 1, a schema of the playing field.
+>![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_1.png)  
+>Figure 1, a schema of the playing field.
 
 
 Streets have a particular color with a dashed line in the middle. These roads are connected to each
