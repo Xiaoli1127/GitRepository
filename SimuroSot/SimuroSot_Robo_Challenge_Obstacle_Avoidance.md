@@ -81,7 +81,7 @@ There are 3 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines
 #### 5.2. Scenery 2
 There are 6 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines. each line has two obstacle. But theactually location is unknown. And you need to avoid it according to your vision.
 
-####5.3. Scenery 3
+#### 5.3. Scenery 3
 There are 6 obstacle randomly located in the ground. And the actually location is unknown. And you need to avoidit according to your vision.
 
 #### 5.4. Scenery 4
