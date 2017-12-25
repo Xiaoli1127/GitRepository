@@ -1,7 +1,7 @@
 ### FIRA - HuroCup Laws of the Game
 ----------
-![](https://github.com/cao-yan/rules/blob/master/Air/image/1.png)
-## FIRA Air 
+![](https://github.com/cao-yan/rules/blob/master/Air/image/1.png)  
+## FIRA Air
 ## Laws of the Game (Pro/U19/U14)
 
 
