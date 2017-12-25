@@ -96,9 +96,7 @@ The following table shows scores of each mission elements:
 ## 6 Method of Scoring
 The score of a mission depends on the performance of drone. It will be calculated using the formula below:
 
-![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-
-M ission Score : ∑ (S i )i
+![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_3.png)
 
 In this formula, i is the mission element number, S i is the achieved score in that mission element.
 
