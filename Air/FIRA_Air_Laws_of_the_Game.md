@@ -38,7 +38,7 @@
 The following rules and regulations govern the Drone event at the FIRA Air competition.
 
 The focus of the FIRA Air competition is to develop an autonomous navigation system for drones in urban environments. Two scenarios have been considered for this contest. In the first scenario, a medicine package (in a simulated urban environment) should be delivered to the specified location autonomously, and then the drone will return to the starting point. In the second scenario, the drone has to autonomously do some high altitude inspections (e.g. tall buildings and electricity pylons inspections). In this situation, taking pictures with sufficient quality from different angles is required.        
-![](https://github.com/cao-yan/rules/blob/master/Air/image/2.png)
+![](image\2.png)
 
 #### Latest Version of the Rules
 The most recent official version of the rules of the FIRA Drone competition is always available [here](https://docs.google.com/document/d/1gacUn0bwbEUpGLTWW0aSvrTOMHL1vZxMERJuWrwBnOw/edit?usp=sharing).
