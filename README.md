@@ -13,3 +13,13 @@
 + [SimuroSot Air](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Air.md)
 + [SimuroSot Robo Challenge Obstacle Avoidance](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Challenge_Obstacle_Avoidance.md)
 + [SimuroSot Robo Game RULE](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Game_RULE.md)
+
+# 文档发布
+### windows系统
+1. 下载pandoc [下载页面](https://github.com/jgm/pandoc/releases/latest)
+1. 下载pandoc-x.x.x-windows.msi 并安装
+1. 下载MiKTeX [下载页面](https://miktex.org/download#win)
+1. 下载 basic-miktex-x.x.xxxx-x64.exe 并安装
+1. 运行public.bat，将md文件转换为pdf和html文档
+1. 查看自动生成的pdf和html文档
+### Ubuntu系统
