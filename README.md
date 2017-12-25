@@ -12,3 +12,4 @@
 + [SimuroSot Robo Challenge Obstacle Avoidance](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Challenge_Obstacle_Avoidance.md)
 + [SimuroSot Robo Game RULE](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Game_RULE.md)
 + [SimuroSot Air](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Air.md)
++ [FIRA_Air_Laws_of_the_Game](https://github.com/cao-yan/rules/blob/master/Air/FIRA_Air_Laws_of_the_Game.md)
