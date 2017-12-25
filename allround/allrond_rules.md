@@ -8,7 +8,7 @@
 <center>[jacky@cs.umanitoba.ca](jacky@cs.umanitoba.ca)</center>
 
 <center>
-![](1.png)
+![](image/1.png)
 </center>
 
 <center>*Abstract*

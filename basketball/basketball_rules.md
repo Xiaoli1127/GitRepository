@@ -11,7 +11,7 @@
 <center>[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)</center>
 
 <center>
-    ![](5.png) 
+    ![](image/5.png) 
 </center>
 
 <center>*Abstract*</center>
@@ -38,7 +38,7 @@ The following laws describe the specifics of the basketball event. For general s
 <table>
  <table>
  <tr>
-    ![](2.png) 
+    ![](image/2.png) 
  </tr>
 </table>
 
@@ -137,7 +137,7 @@ The following laws describe the specifics of the basketball event. For general s
 
 <table>
 <tr>
-    ![](3.jpg)
+    ![](image/3.jpg)
 </tr>
 </table>
 
@@ -155,7 +155,7 @@ The following laws describe the specifics of the basketball event. For general s
 
 <table>
 <tr>
-    ![](4.jpg)
+    ![](image/4.jpg)
 </tr>
 </table>
 
