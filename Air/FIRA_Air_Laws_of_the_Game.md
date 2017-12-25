@@ -1,6 +1,6 @@
 ### FIRA - HuroCup Laws of the Game
 ----------
-![](https://github.com/cao-yan/blob/edit/master/Air/image/1.png)
+![](https://github.com/cao-yan/rules/blob/master/Air/image/1.png)
 ## FIRA Air 
 ## Laws of the Game (Pro/U19/U14)
 
@@ -38,7 +38,7 @@
 The following rules and regulations govern the Drone event at the FIRA Air competition.
 
 The focus of the FIRA Air competition is to develop an autonomous navigation system for drones in urban environments. Two scenarios have been considered for this contest. In the first scenario, a medicine package (in a simulated urban environment) should be delivered to the specified location autonomously, and then the drone will return to the starting point. In the second scenario, the drone has to autonomously do some high altitude inspections (e.g. tall buildings and electricity pylons inspections). In this situation, taking pictures with sufficient quality from different angles is required.        
-![](https://github.com/cao-yan/blob/edit/master/Air/image/2.png)
+![](https://github.com/cao-yan/rules/blob/master/Air/image/2.png)
 
 #### Latest Version of the Rules
 The most recent official version of the rules of the FIRA Drone competition is always available [here](https://docs.google.com/document/d/1gacUn0bwbEUpGLTWW0aSvrTOMHL1vZxMERJuWrwBnOw/edit?usp=sharing).
@@ -79,7 +79,7 @@ For focusing on the development of software algorithms, and providing the same c
 4. Electricity pylons inspections
 5. Tower inspection
 
->![](https://github.com/cao-yan/blob/edit/master/Air/image/3.png)
+>![](https://github.com/cao-yan/rules/blob/master/Air/image/3.png)
 >Figure 1, a schema of the playing field.
 
 Streets have a particular color with a dashed line in the middle. These roads are connected to each other by several crossroads, and there is a QR code located in the center of each crossing. Data of these QR codes tells the drone where it should go next. Several markers are located at the end of streets for different mission elements which show the starting point, delivery point, and towers location.
@@ -96,7 +96,7 @@ The obstacles are colored gates (fig. 2), 1.5 m wide, 1m high and 10cm thick. Th
 The package is a box (smaller than 10cm x 10cm x 5cm) with a small hook above it.
 5. Return and land on starting point: Drone has to follow the path it traveled to get back to the starting point. In this section, the number of correctly followed paths and landing accuracy on the marker of starting point defines the amount of score.
 
->![](https://github.com/cao-yan/blob/edit/master/Air/image/4.png)
+>![](https://github.com/cao-yan/rules/blob/master/Air/image/4.png)
 >Figure 2, a schema of the obstacles in the field.
 
 The following table shows scores of each mission element:
@@ -114,7 +114,7 @@ The goal of this mission is the automatic inspection of equipment that is instal
 
 The electric tower insulators are simulated according to the picture below (2m high). There are several QR codes (15cm x 15cm) installed on sides of these two cubes, and the drone should read these codes by taking images in different angles.
 
->![](https://github.com/cao-yan/blob/edit/master/Air/image/5.png)
+>![](https://github.com/cao-yan/rules/blob/master/Air/image/5.png)
 >Figure 3, Electricity pylons model.
 
 The residential tower is a cuboid (2m high), and there are several QR codes (15cm x 15cm) located on different sides of it. Some of these QRs contains victim information as well as the environment temperature and some others, only contains the temperature of the environment. A team will score by reporting information of the victims. Temperatures written inside each QR code are showing the temperatures of building in that location. Hence reporting the hottest and coolest locations of the building will result in getting additional points as well.
@@ -155,7 +155,7 @@ The autonomy consists of 3 levels: teleoperation control (FPV), autonomous contr
 #### [FA-7]: Method of Scoring
 The score of a mission depends on the performance of drone and the level of the autonomy. It will be calculated using the formula below:
 
-![](https://github.com/cao-yan/blob/edit/master/Air/image/6.png)
+![](https://github.com/cao-yan/rules/blob/master/Air/image/6.png)
 
 In this formula,  is the mission element number, Si is the achieved score and Kai is the level of the autonomy in that mission element.
 
