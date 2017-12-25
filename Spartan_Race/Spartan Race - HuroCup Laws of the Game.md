@@ -2,7 +2,7 @@
 ----------
 #### Version: 15.1.1 Date: Sun May 21 2017 19:53:22 GMT-0500 (CDT)
 
-![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_1.png)![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/1_2.png)
+![](image/1_1.png)![](image/1_2.png)
 ### HuroCup Laws of the Game
 ### Spartan Race (Pro)
     
@@ -15,7 +15,7 @@
 >**2Institute of Electrical Engineering**  
 >**National Kaohsiung First University of Science & Technology**  
 >**[tuky@nkfust.edu.tw](tuky@nkfust.edu.tw)**  
->**![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/2.png)**  
+>**![](image/2.png)**  
 >**Abstract**  
 >**The following rules and regulations govern the spartan race event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.**
 
@@ -49,7 +49,7 @@ The following laws describe the specifics of the spartan race event. For general
 
 [SR-1.5]: The thickness of a single sheet is $H.
 
->![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/3.png)
+>![](image/3.png)
 >
 >|Dimension |Comment |Kid Size |Adult Size |
 >|:-|-|-:|-:|
@@ -61,7 +61,7 @@ The following laws describe the specifics of the spartan race event. For general
 >
 >Uneven Terrain </br> The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.
 
-![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/4.png)
+![](image/4.png)
 |-|
 |Uneven Terrain</br>A sample uneven terrain playing field for the lift and carry event.|
 
@@ -71,7 +71,7 @@ The following laws describe the specifics of the spartan race event. For general
 
 [SR-1.8]: The sheets are colour coded, that is sheets at different heights have different colours as shown in Figure [Uneven Terrain](https://docs.google.com/document/d/1mh1xXGr970a3S0qakOopx7g8n-JDd2HS7DaYFoopPfo/pub#id.d06beo3fm8xk).
 
->![](https://github.com/cao-yan/rules/blob/master/Spartan_Race/image/5.png)
+>![](image/5.png)
 >The Ladder and Rope
 
 >|Name |Comment |Kid Size |Adult Size |
