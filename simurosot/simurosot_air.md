@@ -32,7 +32,7 @@ For focusing on the development of software algorithms, and providing the same c
 4. Electricity pylons inspections
 5. Tower inspection
 
->![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_1.png)  
+>![](image/3_1.png)  
 >Figure 1, a schema of the playing field.
 
 
@@ -65,7 +65,7 @@ The goal of this mission is the automatic inspection of equipment that is instal
 
 The electric tower insulators are simulated according to the picture below. There are several QR codes installed on sides of these two cubes, and the drone should read these codes by taking images in different angles.
 
->![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_2.png)  
+>![](image/3_2.png)  
 >Figure 2, Electricity pylons model.
 
 The residential tower is shaped like a cuboid, and there are several QR codes located on different sides of it. Some of these QRs contains victim information as well as the environment temperature and some others, only contains the temperature of the environment. A team will score by reporting information of the victims. Temperatures written inside each QR code are showing the temperatures of building in that location. Hence reporting the hottest and coolest locations of the building will result in getting additional points as well. So, you should keep these information in a separate file.
@@ -96,7 +96,7 @@ The following table shows scores of each mission elements:
 ## 6 Method of Scoring
 The score of a mission depends on the performance of drone. It will be calculated using the formula below:
 
-![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/3_3.png)
+![](image/3_3.png)
 
 In this formula, i is the mission element number, S i is the achieved score in that mission element.
 
