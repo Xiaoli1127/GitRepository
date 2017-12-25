@@ -1,6 +1,6 @@
 ### FIRA - HuroCup Laws of the Game
 ----------
-![](/image/1.png)  
+![](image/1.png)  
 ## FIRA Air
 ## Laws of the Game (Pro/U19/U14)
 
