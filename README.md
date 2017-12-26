@@ -1,5 +1,5 @@
 # index
-+ [All Round](https://github.com/cao-yan/rules/blob/master/allround/bhg.md)
++ [All Round](allround/bhg.md)
 + [Air](https://github.com/cao-yan/rules/blob/master/Air/FIRA_Air_Laws_of_the_Game.md)
 + [Archery](https://github.com/cao-yan/rules/blob/master/Archery/Archery.md)
 + [Basketball](https://github.com/cao-yan/rules/blob/master/basketball/ahg.md)
@@ -7,7 +7,7 @@
 + [Marathon](https://github.com/cao-yan/rules/blob/master/marathon/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [Obstacle Run](https://github.com/cao-yan/rules/blob/master/obstacle%20run/obstacle%20run.md)
 + [Organization](https://github.com/cao-yan/rules/blob/master/Organization/Organization.md)
-+ [Penalty](https://github.com/cao-yan/rules/blob/master/penalty/penalty.md)  
++ [Penalty](penalty/penalty.md)  
 + [Spartan_Race](https://github.com/cao-yan/rules/blob/master/Spartan_Race/Spartan%20Race%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [Sprint](https://github.com/cao-yan/rules/blob/master/sprint/sprint.md)
 + [SimuroSot Air](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Air.md)
@@ -23,3 +23,6 @@
 1. 运行public.bat，将md文件转换为pdf和html文档
 1. 查看自动生成的pdf和html文档
 ### Ubuntu系统
+1. 安装pandoc 执行命令 sudo apt-get install pandoc
+2. sudo chmod +x publish
+3. 运行publish.sh脚本
