@@ -1,8 +1,8 @@
 ### FIRA - HuroCup Laws of the Game
-----------
-![](image/1.png)  
-## FIRA Air
-## Laws of the Game (Pro/U19/U14)
+
+>![](image/1.png)   
+>**FIRA Air**  
+>**Laws of the Game (Pro/U19/U14)**  
 
 
 >>Farzad Ahmadinejad   
@@ -11,21 +11,21 @@
 >>Amirkabir University of Technology  
 >>Tehran, 158754413, Iran  
 >>f.ahmadinejad@aut.ac.ir  
->>****  
+>>  
 >>Alireza Athari   
 >>Mobile Robot Laboratory  
 >>Robotics Engineering Department  
 >>Amirkabir University of Technology  
 >>Tehran, 158754413, Iran  
 >>miralireza.athari@ee.kntu.ac.ir  
->>****
+>>
 >>Jacky Baltes  
 >>Educational Robotics Center  
 >>Department of Electrical Engineering  
 >>National Taiwan Normal University  
 >>Taipei, 10610, Taiwan  
 >>jacky.baltes@ntnu.edu.tw  
->>****
+>>
 >>Soroush Sadeghnejad  
 >>Bio-Inspired System Design Laboratory   
 >>Mechanical Engineering Department  
@@ -79,7 +79,7 @@ For focusing on the development of software algorithms, and providing the same c
 4. Electricity pylons inspections
 5. Tower inspection
 
->![](image/3.png)
+>![](image/3.png)  
 >Figure 1, a schema of the playing field.
 
 Streets have a particular color with a dashed line in the middle. These roads are connected to each other by several crossroads, and there is a QR code located in the center of each crossing. Data of these QR codes tells the drone where it should go next. Several markers are located at the end of streets for different mission elements which show the starting point, delivery point, and towers location.
@@ -96,26 +96,19 @@ The obstacles are colored gates (fig. 2), 1.5 m wide, 1m high and 10cm thick. Th
 The package is a box (smaller than 10cm x 10cm x 5cm) with a small hook above it.
 5. Return and land on starting point: Drone has to follow the path it traveled to get back to the starting point. In this section, the number of correctly followed paths and landing accuracy on the marker of starting point defines the amount of score.
 
->![](image/4.png)
+>![](image/4.png)  
 >Figure 2, a schema of the obstacles in the field.
 
-The following table shows scores of each mission element:
-
-|Number |Mission element |Score |
-|:-:|:-|:-|
-|1 |Takeoff & Hovering |1 point for hovering (5 seconds) |
-|2 |Navigating to destination |2 points for each correct street traveled (till next the crossroad) |
-|3 |Collision avoidance |1 point for going above and 2 points for going below (through) the gate. |
-|4 |First aid kit delivery |4 points for distance less than 20cm </br>3 points for distance less than 30cm </br>2 points for distance less than 50cm </br>-1 point for removing the package manually |
-|5 |Return and land on starting point |2 points for each correct street traveled (till next the crossroad) |2 points for landing on the marker |
+The following table shows scores of each mission element:  
+![](image/air_table1.png)
  
 #### [FA-4]: Mission 2: Tower Inspection
 The goal of this mission is the automatic inspection of equipment that is installed in high altitude and couldn't be reached easily. Inspection of electric tower insulators and searching for victims of a fire accident (occurred in a residential tower) are scenarios that are going to be simulated in this mission.
 
 The electric tower insulators are simulated according to the picture below (2m high). There are several QR codes (15cm x 15cm) installed on sides of these two cubes, and the drone should read these codes by taking images in different angles.
 
->![](image/5.png)
->Figure 3, Electricity pylons model.
+![](image/5.png)  
+Figure 3, Electricity pylons model.
 
 The residential tower is a cuboid (2m high), and there are several QR codes (15cm x 15cm) located on different sides of it. Some of these QRs contains victim information as well as the environment temperature and some others, only contains the temperature of the environment. A team will score by reporting information of the victims. Temperatures written inside each QR code are showing the temperatures of building in that location. Hence reporting the hottest and coolest locations of the building will result in getting additional points as well.
 
@@ -130,14 +123,7 @@ Details of this mission are as follows:
  
 The following table shows scores of each mission elements:
 
-|Number|Mission element |Score |
-|:-:|:-|:-|
-|1 |Reaching electric tower |2 points for following the known path |
-|2 |Insulator scan |1 point for reading each QR code |
-|3 |Reaching residential tower |2 points for following the known path |
-|4 |Searching for victims |1 point for reading each QR code that contain victim information |
-|5 |Identifying the center of the fire | 1 points for detection of the hottest spot </br>1 points for detection of the coolest spot |
-|6 |Return and land on starting point |2 points for correctly following the path </br>2 points for landing on the marker |
+![](image/air_table2.png)
 
 #### [FA-5]: Number of Drones
 [FA-5.1]: A single drone competes in each mission attempt. Teams are allowed to use different drones for different mission attempts.
@@ -145,12 +131,7 @@ The following table shows scores of each mission elements:
 #### [FA-6]: Level of Autonomy
 The autonomy consists of 3 levels: teleoperation control (FPV), autonomous control with off-board processing and autonomous control with onboard processing. Based on the level of autonomy of the drone in a mission element, a coefficient is multiplied in the achieved score of that mission element. The coefficients are defined in the following table:
 
-
-|Level of autonomy |Ka (Coefficient) |Comments |
-|:-:|:-:|:-:|
-|Teleoperation (FPV) |0.15 |Control and navigation of the drone in that mission element is done by an operator without direct line of sight. |
-|Autonomous (off-board Process) |1 |Control and navigation of the drone in that mission element is performed autonomously, and some processes are done using a computer outside of the drone itself. |
-|Autonomous (on-board Process) |1.5 |Control and navigation of the drone in that mission element is performed autonomously, and all of the processes are done using a computer inside the drone itself. |
+![](image/air_table3.png)
  
 #### [FA-7]: Method of Scoring
 The score of a mission depends on the performance of drone and the level of the autonomy. It will be calculated using the formula below:

@@ -1,5 +1,5 @@
 # SimuroSot Air
-----------
+
 ## 1 Introduction
 The following rules and regulations govern the SimuroSot Air competition.
 
@@ -50,15 +50,8 @@ In this mission, the drone has to land to a specific location while flies throug
 4. Landing on the destination:  The Landing destination is marked on the ground. Drone should land on the marker and fly again. The distance between the center of the marker and the place where drone landed will define the score of this section.
 5. Return and land on starting point: Drone has to follow the path it traveled to get back to the starting point. In this section, the number of correctly followed paths and landing accuracy on the marker of starting point defines the amount of score.
 
-The following table shows scores of each mission element:
-
-|Number |Mission element |Score|
-|:-:|:-|:-|
-|1 |Takeoff & Hovering |1 point for hovering (5 seconds) |
-|2 |Navigating to destination |2 points for each correct street traveled (till next the crossroad) |
-|3 |Collision avoidance |1 point for each correct obstacle avoidance |
-|4 |Landing on the destination |4 points for distance less than 20cm </br>3 points for distance less than 30cm </br>2 point for distance less than 50cm|
-|5 |Return and land on starting point |2 points for each correct street traveled (till next the crossroad) </br>2 points for landing on the marker||
+The following table shows scores of each mission element:  
+![](image/simurosot_air_table1.png)  
 
 ## 5 Mission 2: Tower Inspection
 The goal of this mission is the automatic inspection of equipment that is installed in high altitude and couldn't be reached easily. Inspection of electric tower insulators and searching for victims of a fire accident (occurred in a residential tower) are scenarios that are going to be simulated in this mission.
@@ -81,22 +74,14 @@ result in score for this mission element.
 5. Identifying the center of the fire: The team will achieve the score of this mission element if the drone reports the location of hottest and coolest spots of the building.
 6. Return and land on starting point: Drone has to follow the path it has traveled to get back to the starting point. In this section, the correctness of path and precision of landing on the marker defines the amount of score.
 
-The following table shows scores of each mission elements:
-
-|Number |Mission element |Score |
-|:-: |:- |:- |
-|1 |Reaching electric tower |2 points for following the known path |
-|2 |Insulator scan |1 point for reading each QR code |
-|3 |Reaching residential tower |2 points for following the known path |
-|4 |Searching for victims |1 point for reading each QR code that contain victim information |
-|5 |Identifying the center of the fire |1 points for detection of the hottest spot </br>1 points for detection of the coolest spot |
-|6 |Return and land on starting point |2 points for correctly following the path </br>2 points for landing on the marker |
-
+The following table shows scores of each mission elements:  
+![](image/simurosot_air_table2.png)  
 
 ## 6 Method of Scoring
 The score of a mission depends on the performance of drone. It will be calculated using the formula below:
 
-![](image/3_3.png)
+>>>>>>![](image/3_3.png)   
+.
 
 In this formula, i is the mission element number, S i is the achieved score in that mission element.
 
