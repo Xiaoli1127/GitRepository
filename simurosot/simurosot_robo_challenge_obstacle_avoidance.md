@@ -1,18 +1,19 @@
 # SimuroSot Robo Challenge Obstacle Avoidance
-----------
+
 ### Testing Time
 Before the game starts, each team will have an independent 2-minutes testing time by turns.
+
 ### Mainly
 Each team needs to complete a series challenge three times.
+
 ### Field
 A white rectangle is the competition field of avoidance challenge, which is sized 300cm*600cm, shown as Fig. 1.
+
 ### Obstacles placing rules:
 The obstacle is a cube with 50cm*50cm*50cm. The obstacle placement will be different with different scenery and different challenge.
 
->![](https://github.com/cao-yan/rules/blob/master/SimuroSot/image/2_1.png)
+>![](image/2_1.png)  
 >Figure 1 Field for SimuroSot Robo Challenge.  
-
-<image>
 
 ## 1 Introduction
 The following rules and regulations govern the game of SimuroSot Robo Obstacle avoidance challenge.  The rules and regulations stated are to ensure a fair competition takes place. The objective of the SimuroSotRobo Obstacle avoidance challenge is to allow researchers to develop control algorithms, path planning andobstacle identification strategies without the need of complex and costly hardware setup. Teams areencouraged to use the simulation platform for the evaluation of their algorithms and eventually to participlein the RoboSot obstacle avoidance challenge which is exposed to real world conditions.
@@ -93,40 +94,31 @@ Before the commencement of each scenery, all team need to copy their code to the
 At the end of the game, the team should remove or delete their team strategy files from the client computer.
 
 ## 8 The Referee
-Every match is controlled by a referee who has full authority to enforce the Laws of the Game in connection with the match to which he has been appointed. The referee shall communicate with both team members in English unless it is agreeable by both teams and the referee/assistant referee that other languages are allowed to be used. The referee:
+Every match is controlled by a referee who has full authority to enforce the Laws of the Game in connection with the match to which he has been appointed. The referee shall communicate with both team members in English unless it is agreeable by both teams and the referee/assistant referee that other languages are allowed to be used.
 
--Enforces the Laws of the Game.
+ The referee:
 
--Controls the match possibly in co-operation with assistant referees.
+- Enforces the Laws of the Game.
 
--Stops, suspends or terminates the match, at his discretion, for an infringements of the Laws
+- Controls the match possibly in co-operation with assistant referees.
 
--Stops, suspends or terminates the match because of outside interference of any kind Acts on the advice of assistant referees regarding incidents which he has not seen.
+- Stops, suspends or terminates the match, at his discretion, for an infringements of the Laws
 
--Ensures that no unauthorized persons enter the field of play. ​ Only one representative per team is authorized to speak with the judge and it must be defined before the match beginning.
+- Stops, suspends or terminates the match because of outside interference of any kind Acts on the advice of assistant referees regarding incidents which he has not seen.
 
--When the referee makes a decision and a team does not agree with it, his representative can expose his reason. He only has one minute to do it, then the opposing team has the opportunity to do it for a minute too if they want. After that the referee MUST take a decision.
+- Ensures that no unauthorized persons enter the field of play. ​ Only one representative per team is authorized to speak with the judge and it must be defined before the match beginning.
 
--Takes action against team officials who fail to conduct themselves in a responsible manner and may at his discretion, expel them from the field of play and its immediate surrounds.
+- When the referee makes a decision and a team does not agree with it, his representative can expose his reason. He only has one minute to do it, then the opposing team has the opportunity to do it for a minute too if they want. After that the referee MUST take a decision.
+
+- Takes action against team officials who fail to conduct themselves in a responsible manner and may at his discretion, expel them from the field of play and its immediate surrounds.
 
 ## 9 Method of Scoring
 #### 9.1. The winner
 The team with the highest score will be the winner.
 
-#### 9.2. Score for Challenge One
-|Scenery |Obstacle placement |score |
-|:-|:-|:-|
-|1 |3 obstacle in 3 lines |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-|2 |6 obstacle in 3 lines, each 2 |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-|3 |5 obstacle in 3 lines, center moving |max 15 points. 11 points for avoiding all obstacle; 7 points for avoiding all but moving obstacle, and arring the target. 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-|4 |6 obstacle in random location |max 15 points. 11 points for avoiding all obstacle, 8 points for avoiding all but one obstacle, 5 points for avoiding all but two points, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
+#### 9.2. Score for Challenge One  
+![](image/simurosot_avoidance_table1.png)  
 
-#### 9.2. Score for Challenge Two
-|Scenery |Obstacle placement |score |
-|:- |:- |:- |
-|1 |3 obstacle in 3 lines |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-|2 |6 obstacle in 3 lines, each 2 |max 10 points. 6 points for avoiding all obstacle, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-|3 |5 obstacle in 3 lines, center moving |max 15 points. 11 points for avoiding all obstacle; 7 points for avoiding all but moving obstacle, and arring the target. 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-|4 |6 obstacle in random location |max 15 points. 11 points for avoiding all obstacle, 8 points for avoiding all but one obstacle, 5 points for avoiding all but two points, 4 points for shortest time, 2 for 2nd, 1 for 3rd, 0 for others |
-
+#### 9.2. Score for Challenge Two  
+![](image/simurosot_avoidance_table2.png)  
 In the event of a tie.
