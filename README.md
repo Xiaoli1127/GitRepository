@@ -7,7 +7,7 @@
 + [Marathon](https://github.com/cao-yan/rules/blob/master/marathon/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [Obstacle Run](https://github.com/cao-yan/rules/blob/master/obstacle%20run/obstacle%20run.md)
 + [Organization](https://github.com/cao-yan/rules/blob/master/Organization/Organization.md)
-+ [Penalty](https://github.com/cao-yan/rules/blob/master/penalty/penalty.md)  
++ [Penalty](penalty/penalty.md)  
 + [Spartan_Race](https://github.com/cao-yan/rules/blob/master/Spartan_Race/Spartan%20Race%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [Sprint](https://github.com/cao-yan/rules/blob/master/sprint/sprint.md)
 + [SimuroSot Air](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Air.md)
