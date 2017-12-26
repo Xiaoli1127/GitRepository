@@ -9,8 +9,8 @@
 + [allround](allround_rules.md)
 + [basketball](basketball/badketball_rules.md)
 + [general](general/general_rules.md)
-+ [marathon](marathon/marathon_hurocup_laws_of_ the_game.md)
-+ [spartan_race](spartan_race/spartan_race _hurocup_laws_of_the_game.md)
++ [marathon](marathon/marathon.md)
++ [spartan_race](spartan_race/spartan_race.md)
 + [simurosot](simurosot)
 + [hurocup](hurocup)
 
