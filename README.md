@@ -1,7 +1,18 @@
 # index
 + [obstacle_run](obstacle_run/obstacle_run.md)
-+ [Penalty](penalty/penalty.md)  
++ [penalty](penalty/penalty.md)  
 + [sprint](sprint/sprint.md)
++ [archery](archery/archery.md)
++ [origanization](origanization/origanization.md)
++ [long_jump](long_jump/long_jump.md)
++ [air](air/fira_air_laws_of_the_game.md)
++ [allround](allround_rules.md)
++ [basketball](basketball/badketball_rules.md)
++ [general](general/general_rules.md)
++ [marathon](marathon/marathon_hurocup_laws_of_ the_game.md)
++ [spartan_race](spartan_race/spartan_race _hurocup_laws_of_the_game.md)
++ [simurosot](simurosot)
++ [hurocup](hurocup)
 
 # 文档发布
 ### windows系统
