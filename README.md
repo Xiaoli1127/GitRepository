@@ -1,5 +1,5 @@
 # index
-+ [All Round](https://github.com/cao-yan/rules/blob/master/allround/bhg.md)
++ [All Round](allround/bhg.md)
 + [Air](https://github.com/cao-yan/rules/blob/master/Air/FIRA_Air_Laws_of_the_Game.md)
 + [Archery](https://github.com/cao-yan/rules/blob/master/Archery/Archery.md)
 + [Basketball](https://github.com/cao-yan/rules/blob/master/basketball/ahg.md)
