@@ -3,16 +3,26 @@
 + [penalty](penalty/penalty.md)  
 + [sprint](sprint/sprint.md)
 + [archery](archery/archery.md)
-+ [origanization](origanization/origanization.md)
++ [organization](organization/organization.md)
 + [long_jump](long_jump/long_jump.md)
 + [air](air/fira_air_laws_of_the_game.md)
-+ [allround](allround_rules.md)
-+ [basketball](basketball/badketball_rules.md)
++ [allround](allround/allround_rules.md)
++ [basketball](basketball/basketball_rules.md)
 + [general](general/general_rules.md)
 + [marathon](marathon/marathon.md)
 + [spartan_race](spartan_race/spartan_race.md)
 + [simurosot](simurosot)
 + [hurocup](hurocup)
+
+#安装vscode编辑器
+### windows系统
+1. [下载vscode](https://code.visualstudio.com/)
+1. 安装插件
+    * 打开vscode
+    * 按ctrl+shift+x打开扩展面板
+    * 搜索Markdown Preview Enhanced，下载安装后重启
+    * ctrl+shift+m弹出预览界面
+### Unbuntu系统
 
 # 文档发布
 ### windows系统
