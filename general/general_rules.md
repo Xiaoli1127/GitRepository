@@ -1,20 +1,20 @@
-<center>Jacky Baltes</center>
+>Jacky Baltes
 
-<center>Educational Robotics Center</center>
+>Educational Robotics Center
 
-<center>Department of Electrical Engineering</center>
+>Department of Electrical Engineering
 
-<center>National Taiwan Normal University</center>
+>National Taiwan Normal University
 
-<center>Taipei, 10610, Taiwan</center>
+>Taipei, 10610, Taiwan
 
-<center>[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)</center>
+>[jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)
 
 ![](image/1.jpg)
 
-<center>*Abstract*</center>
+Abstract
 
-*The following rules and regulations are general rules of HuroCup, a robotic game and robotics benchmark problem for humanoid robots. The HuroCup competition emphasizes the development of flexible, robust, and versatile robots that can perform many different tasks in different domains.  HuroCup encourages research into the many areas of humanoid robotics, especially walking and balancing, complex motion planning, and human robot interaction. In addition to the single events (e.g., archery, sprint, marathon, united soccer, obstacle run, long jump, spartan race, marathon, weightlifting, and basketball), there is an all-round competition for the single robot that performs best over all events.*
+The following rules and regulations are general rules of HuroCup, a robotic game and robotics benchmark problem for humanoid robots. The HuroCup competition emphasizes the development of flexible, robust, and versatile robots that can perform many different tasks in different domains.  HuroCup encourages research into the many areas of humanoid robotics, especially walking and balancing, complex motion planning, and human robot interaction. In addition to the single events (e.g., archery, sprint, marathon, united soccer, obstacle run, long jump, spartan race, marathon, weightlifting, and basketball), there is an all-round competition for the single robot that performs best over all events.
 
 ##Latest Version of the Rules for HuroCup
 
@@ -77,9 +77,12 @@ The goal of the weight lifting event is to develop robots that can lift and bala
 
 ##Laws of the Game
 
-The following section describes the general law of the game for all HuroCup events. It is based on the rules of similar robotic and human games (e.g., FIRA, RoboCup, and FIFA).   
+The following section describes the general law of the game for all HuroCup events. It is based on the rules of similar robotic and human games (e.g., FIRA, RoboCup, and FIFA).
 
-####[GN-1]: **Leagues**
+
+
+
+**[GN-1]: Leagues**
 
 The HuroCup competition consists of two separate leagues: HuroCup Senior and HuroCup Junior.
 
@@ -87,13 +90,13 @@ The HuroCup competition consists of two separate leagues: HuroCup Senior and Hur
 
 [GN-1.2]: The HuroCup Junior league competition is limited to high school students. A HuroCup Junior team may include a team official who may be an adult. With the exception of the team official, who shall not help the students in the development of their robot, all members of a HuroCup Junior league team must be high school, junior high school, or elementary school students or the equivalent school level in the country of origin of the team. The HuroCup Junior league competition is only open to kid sized robots.
 
-###[OG-2]: HuroCup Events
+**[OG-2]: HuroCup Events**
 
 [GN-1.3]: The HuroCup competition includes the following events: basketball, marathon, archery, long jump, obstacle run, sprint, united soccer/penalty kick, spartan race, mini-drc, and weightlifting.
 
 [GN-1.4]: The HuroCup Junior competition includes the following events: mini-drc, wall climbing, marathon, sprint, and weightlifting.
 
-####**[GN-2]: The Players**
+**[GN-2]: The Players**
 
 
 <table>
@@ -182,7 +185,7 @@ The HuroCup competition consists of two separate leagues: HuroCup Senior and Hur
 5.    the referee verifies that the fault has been repaired before allowing the robot to re-enter the field,
 6.    the robot may only re-enter the field during a stoppage in play.
 
-####**[GN-3]: The Referee**
+**[GN-3]: The Referee**
 
 [GN-3.1]: Every event or match is controlled by a referee who has full authority to enforce the Laws of the Game in connection with the match to which he or she has been appointed.
 
@@ -239,7 +242,7 @@ This may include:
 9.    any other decision which he or she may take in accordance with the Laws of the Game or in conformity with the duties of a referee under the terms of the HuroCup FIRA Federation or league rules or regulations under which the event is played.
 
 
-####**[GN-4]: The Assistant Referee**
+**[GN-4]: The Assistant Referee**
 
 [GN-4.1]: The duties of the appointed assistant referees, subject to the decision of the referee, are to
 
