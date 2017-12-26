@@ -23,3 +23,6 @@
 1. 运行public.bat，将md文件转换为pdf和html文档
 1. 查看自动生成的pdf和html文档
 ### Ubuntu系统
+1. 安装pandoc 执行命令 sudo apt-get install pandoc
+2. sudo chmod +x publish
+3. 运行publish.sh脚本
