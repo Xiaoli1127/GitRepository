@@ -14,6 +14,16 @@
 + [SimuroSot Robo Challenge Obstacle Avoidance](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Challenge_Obstacle_Avoidance.md)
 + [SimuroSot Robo Game RULE](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Game_RULE.md)
 
+#安装vscode编辑器
+### windows系统
+1. [下载vscode](https://code.visualstudio.com/)
+1. 安装插件
+    * 打开vscode
+    * 按ctrl+shift+x打开扩展面板
+    * 搜索Markdown Preview Enhanced，下载安装后重启
+    * ctrl+shift+m弹出预览界面
+### Unbuntu系统
+
 # 文档发布
 ### windows系统
 1. 下载pandoc [下载页面](https://github.com/jgm/pandoc/releases/latest)
