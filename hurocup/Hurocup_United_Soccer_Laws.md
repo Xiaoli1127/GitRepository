@@ -1,7 +1,5 @@
 Version: 15.0.2 Date: Mon Apr 10 2017 08:40:47 GMT+0800 (HKT)
-！[](path/to/image/01.png)
-
-#HuroCup Laws of the GameUnited Soccer
+！[](image/01.png)#HuroCup Laws of the GameUnited Soccer
  
 
 Jacky Baltes
@@ -16,7 +14,7 @@ Taipei, 10610, Taiwan
 
 <u>jacky.baltes@ntnu.edu.tw</u>
 
-![](path/to/image/01.JPG)
+![](image/1.JPG)
 
                               Abstract
 The following rules and regulations govern the united soccer event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots. 
@@ -40,7 +38,6 @@ The following laws describe the specifics of the united soccer event. For genera
 [US-1.3]: The colour of the playing field is green. In case, the local organizer can not provide a suitable playing field with the desired colour, a different uniform colour that does not interfere with any other defined colours (i.e., white, yellow, red, and blue) may be chosen. In this case, the chairs and teams must be notified of the chosen colour as soon as possible.
 
 [US-1.4]: The shape of the field must be rectangular. The length of the field is $FL The width of the field is $FW. The length of the field must be greater than the width.
-
 [US-1.5]: There is a $BW wide boundary around the playing field. The boundary area is not part of the playing field. Its purpose is to prevent damage to robots leaving the playing field.
 
 [US-1.6]: The field of play is marked with lines. These lines belong to the area of which they are boundaries. The two longer boundary lines marking the length of the field are called touch lines. The two shorter ones marking the width of the field are called goal lines. 
@@ -55,7 +52,7 @@ The following laws describe the specifics of the united soccer event. For genera
 
 [US-1.11]: The figure below shows a possible playing field.
 
-![alter txt](path/to/image/2.png).
+![](image/2.png).
 
 *Figure: United Soccer Playing Field*
 
@@ -94,7 +91,7 @@ The following laws describe the specifics of the united soccer event. For genera
 
 [US-1.20]: Goals must be anchored securely to the ground. Portable goals may only be used if they satisfy this requirement.
 
-[US-1.21]: Six passing markers are placed on the playing field. The passing markers are similar to the [wall obstacles](https://docs.google.com/document/d/1JF4hpEZ4fg_3BNnBojY3ZAYBdgUDpfGaB_MJusSJ5-8/pub) used in [Obstacle Run - HuroCup Laws of the Game](https://docs.google.com/document/d/1JF4hpEZ4fg_3BNnBojY3ZAYBdgUDpfGaB_MJusSJ5-8/pub). At the start of the match, the referee will place the six markers randomly on the field, but outside of the penalty box and goal box areas of the goals.
+[US-1.21]: Six passing markers are placed on the playing field. The passing markers are similar to the [wall obstacles](https://docs.google.com/document/d/1JF4hpEZ4fg_3BNnBojY3ZAYBdgUDpfGaB_MJusSJ5-8/pub) used in [Obstacle Run - HuroCup Laws of the Game](https://docs.google.com/document/d/1JF4hpEZ4fg_3BNnBojY3ZAYBdgUDpfGaB_MJusSJ5-8/pub). At the start of the match, the referee will place the six markers randomly on the field, but outside of the penalty box and goal box areas of the goals
 ###[US-2]: The Ball
 
 [US-2.1]: The ball used in a match depends on the size class of the robots:
