@@ -1,18 +1,7 @@
 # index
-+ [allround](allround/bhg.md)
-+ [Air](https://github.com/cao-yan/rules/blob/master/Air/FIRA_Air_Laws_of_the_Game.md)
-+ [Archery](https://github.com/cao-yan/rules/blob/master/Archery/Archery.md)
-+ [Basketball](https://github.com/cao-yan/rules/blob/master/basketball/ahg.md)
-+ [Long Jump](https://github.com/cao-yan/rules/blob/master/Long%20Jump/Long%20Jump.md)
-+ [Marathon](https://github.com/cao-yan/rules/blob/master/marathon/Marathon%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [obstacle_run](obstacle_run/obstacle_run.md)
-+ [Organization](https://github.com/cao-yan/rules/blob/master/Organization/Organization.md)
 + [Penalty](penalty/penalty.md)  
-+ [Spartan_Race](https://github.com/cao-yan/rules/blob/master/Spartan_Race/Spartan%20Race%20-%20HuroCup%20Laws%20of%20the%20Game.md)
 + [sprint](sprint/sprint.md)
-+ [SimuroSot Air](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Air.md)
-+ [SimuroSot Robo Challenge Obstacle Avoidance](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Challenge_Obstacle_Avoidance.md)
-+ [SimuroSot Robo Game RULE](https://github.com/cao-yan/rules/blob/master/SimuroSot/SimuroSot_Robo_Game_RULE.md)
 
 # 文档发布
 ### windows系统
