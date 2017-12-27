@@ -114,7 +114,7 @@ The residential tower is a cuboid (2m high), and there are several QR codes (15c
 
 Details of this mission are as follows:
 
-1. Reaching electric tower: Reaching electric tower: After taking off from the starting point, the drone moves toward the location of the electrical tower. The electrical tower is located at the end of a predefined street. In this situation, the address of the power tower is known, and there is no need to decode QR codes in Street crossroads.
+1. Reaching electric tower:After taking off from the starting point, the drone moves toward the location of the electrical tower. The electrical tower is located at the end of a predefined street. In this situation, the address of the power tower is known, and there is no need to decode QR codes in Street crossroads.
 2. Insulator scan: The drone should identify QR codes installed on insulator model and report them. This procedure should be done by taking pictures in different angles of the tower.
 3. Reaching residential tower: Like the first element, the drone has to traverse a predefined path between the electrical tower and the residential tower. This route is fixed and known.
 4. Searching for victims: The drone will scan different locations of the tower to find QR codes and read them to identify victims. Reading QR codes that don't contain any meaningful information about victims will not result in score for this mission element.
