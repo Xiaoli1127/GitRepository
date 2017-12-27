@@ -16,18 +16,18 @@ Abstract
 
 The following rules and regulations are general rules of HuroCup, a robotic game and robotics benchmark problem for humanoid robots. The HuroCup competition emphasizes the development of flexible, robust, and versatile robots that can perform many different tasks in different domains.  HuroCup encourages research into the many areas of humanoid robotics, especially walking and balancing, complex motion planning, and human robot interaction. In addition to the single events (e.g., archery, sprint, marathon, united soccer, obstacle run, long jump, spartan race, marathon, weightlifting, and basketball), there is an all-round competition for the single robot that performs best over all events.
 
-##Latest Version of the Rules for HuroCup
+### Latest Version of the Rules for HuroCup
 
 The latest official version of the rules of the game for HuroCup is always available from the [HuroCup Facebook Page.](https://www.google.com/url?q=http://www.facebook.com/groups/hurocup&sa=D&ust=1514130922371000&usg=AFQjCNF88GqMLVbEBQqczVzRylYrlQYbzQ)
-##Changes to the General Rules of HuroCup
+### Changes to the General Rules of HuroCup
 
 There are no significant changes to the general rules of HuroCup in the 2015 competition.
-##Mission Statement
+### Mission Statement
 
 The goal of the HuroCup league is to encourage research in practical, autonomous, highly mobile, flexible, and versatile robotic platforms. Intended applications for these robots are, among others, search and rescue robots, healthcare robots, intelligent household helper robots, etc.
 
 As a benchmark problem, the goal of the HuroCup league is to develop humanoid robots that can perform several tasks in complex environments.
-##Physical Challenge Events
+### Physical Challenge Events
 
 To reduce the steep learning curve toward fully autonomous humanoid robots, the rules committee has developed several challenge events for the different leagues.
 
@@ -75,7 +75,7 @@ The soccer competition is an event that focuses on robot to robot interaction an
 
 The goal of the weight lifting event is to develop robots that can lift and balance heavy weights. For detailed rules of the weight lifting event please refer to [Weightlifting - HuroCup Laws of the Game](xxx).
 
-##Laws of the Game
+### Laws of the Game
 
 The following section describes the general law of the game for all HuroCup events. It is based on the rules of similar robotic and human games (e.g., FIRA, RoboCup, and FIFA).
 

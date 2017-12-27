@@ -12,36 +12,34 @@
 
 
     
-![](image/5.png) 
+![](image/5.png)
 
 
-#####Abstract
+**Abstract**
 
 The following rules and regulations govern the basketball event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.
 ###Latest Version of the Rules for HuroCup
 
 The latest official version of the rules of the game for HuroCup is always available from the [HuroCup Facebook Page](https://www.google.com/url?q=http://www.facebook.com/groups/hurocup&sa=D&ust=1513950733849000&usg=AFQjCNHtSJhrd2PLygT9mRg8qv_vqP_BXg).
-###Changes to the Basketball rules of HuroCup
+### Changes to the Basketball rules of HuroCup
 
 There are no significant changes to the laws of the game for basketball in the 2015 competition.
 
-###Basketball
+### Basketball
 
 The goal of the basketball competition is to encourage research into humanoid robots that are able to dexterously manipulate small objects.
-###HuroCup Basketball - Laws of the Game
+### HuroCup Basketball - Laws of the Game
 
 The following laws describe the specifics of the basketball event. For general specifications relevant to all HuroCup events (e.g., robot dimensions, playing field and lighting, responsibility of the referees) please refer to [General - HuroCup Laws of the Game.](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1513950733850000&usg=AFQjCNE6e6xU_TO4qjLMIAER5Lbp-cThXA)
-#####[BB-1]: Field of Play
+
+**[BB-1]: Field of Play**
 
 [BB-1.1]: The dimensions of the playing field are at least 400 cm by  300 cm. On one end of the playing field a basket is mounted. This end is called the basket side. The opposite side of the playing field is called the empty side. See [HuroCup Basketball field](https://docs.google.com/document/d/14nGPXJio0P49PecHr4EyEZewPgMYz9ZPp0Qbfq3g5HE/pub#id.vkvs9mqwwz4e) for more details.
  
-<table>
- <table>
- <tr>
-![](image/2.png) 
- </tr>
-</table>
+![](image/2.png)
 
+<table>
+ 
 <table>
   <tr>
     <th width=20%, bgcolor=yellow >Dimension</th>
@@ -81,26 +79,26 @@ The following laws describe the specifics of the basketball event. For general s
     <td >  $E</td>
     <td > Length of Basket  </td>
     <td align="right"> 10cm </td>
-    <td align="right">  20cm</td>
+    <td align="right"> 20cm </td>
     <td align="right"> 10cm </td>
  </tr>
  <tr>
     <td > $F </td>
     <td > Height of Basket RIm  </td>
     <td align="right"> 40cm </td>
-    <td align="right">  80cm</td>
-    <td align="right">  40cm</td>
+    <td align="right">  80cm </td>
+    <td align="right">  40cm </td>
  </tr>
     
  <tr>
     <td > $G </td>
     <td > Backboard  </td>
    
-    <td align="right">  20cm×20cm</td>
+    <td align="right">  20cm × 20cm</td>
     
-    <td align="right">  40cm×40cm</td>
+    <td align="right">  40cm × 40cm</td>
 
-    <td align="right">  20cm×20cm</td>
+    <td align="right">  20cm × 20cm</td>
  </tr>
 </table>
 
@@ -124,7 +122,7 @@ The following laws describe the specifics of the basketball event. For general s
 
 [BB-1.6]: The ball zone is constructed by drawing a circle centered in front of the basket and distance B away from the basket side. The radius of the circle is $D=$C - $B. The ball zone is the area that is inside of this circle, but outside of the 3 point line.
 
-#####[BB-2]: The Ball, Basket, and Holder
+**[BB-2]: The Ball, Basket, and Holder**
 
 [BB-2.1]: The ball for the kid sized robot is a white or orange table tennis ball. The ball for the adult sized robots is a yellow tennis ball. Figure [Robot and Basket for HuroCup Basketball](https://docs.google.com/document/d/14nGPXJio0P49PecHr4EyEZewPgMYz9ZPp0Qbfq3g5HE/pub#id.6geuxxfon87b) shows a possible setup for the kid sized robots.
 
@@ -134,13 +132,8 @@ The following laws describe the specifics of the basketball event. For general s
 
 [BB-2.3]: A white backboard with size $G is mounted behind the basket. The lower edge of the backboard is approximately level with the rim of the basket.
 
-<table>
 
-<table>
-<tr>
 ![](image/3.jpg)
-</tr>
-</table>
 
 <table>
 <tr>
@@ -148,17 +141,12 @@ The following laws describe the specifics of the basketball event. For general s
 </tr>
 </table>
 
-</table>
+
 [BB-2.4]: A team may use a ball holder to lift the ball of the ground. The diameter of the ball holder must be less than ½ of the diameter of the ball. The construction of the ball holder must not help the robot in any way in localizing itself or the ball. See Robot and Ball Holder for an example.
 
 
-<table>
 
-<table>
-<tr>
 ![](image/4.jpg)
-</tr>
-</table>
 
 <table>
 <tr>
@@ -166,25 +154,24 @@ The following laws describe the specifics of the basketball event. For general s
 </tr>
 </table>
 
-</table>
 
-#####[BB-3]: Number of Robots
+**[BB-3]: Number of Robots**
 
 [BB-3.1]: A single robot competes in a match.
 
-#####[BB-4]: The Players
+**[BB-4]: The Players**
 
 [BB-4.1]: Please refer to [General - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1513950733867000&usg=AFQjCNGf7LrlUaJvoDY-kp--oxy5dSOeng) for detailed information about the players.
 
-#####[BB-5]: The Referee
+**[BB-5]: The Referee**
 
 [BB-5.1]: Please refer to [General - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1513950733868000&usg=AFQjCNFvREkYZrA7ia0C_ZZANOO_vGTfUw) for detailed information about the referee and his or her duties.
 
-[BB-6]: The Assistant Referee**
+**[BB-6]: The Assistant Referee**
 
 [BB-6.1]: Please refer to [General - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1513950733869000&usg=AFQjCNGjBsXuAo8p77an9BTDRFYtsbBqEA) for detailed information about the assistant referee and his or her duties.
 
-#####[BB-7]: Game Play
+**[BB-7]: Game Play**
 
 [BB-7.1]: One robot is designated the thrower. All other robots must be positioned well away from the basket side and must not interfere with the thrower in any way.
 
@@ -208,7 +195,7 @@ The following laws describe the specifics of the basketball event. For general s
 
 [BB-7.8]: After the end of the throw, another robot is designated the thrower.
 
-#####[BB-8]: Method of Scoring
+**[BB-8]: Method of Scoring**
 
 [BB-8.1]: There are five rounds in the competition.
 
@@ -225,7 +212,7 @@ The following laws describe the specifics of the basketball event. For general s
 [BB-8.7]: For more details about the point allocation, please refer to [Point Allocation [Organization - HuroCup Laws of the Game]](https://www.google.com/url?q=https://docs.google.com/document/d/1kn2_dtNp65n1j5TjZWJVIlTKRFcNkTSpARkdhLHNA1c/edit%23bookmark%3Did.rzzlothp76e9&sa=D&ust=1513950733872000&usg=AFQjCNE8HQ1UiJGOUW-Xh_Y2tmvt_cZq8A).
 
 
-#####[BB-9]: Tiebreaker
+**[BB-9]: Tiebreaker**
 
 [BB-9.1]: In case of a tie, i.e., more than one robot having scored the same number of points, the robots will be ranked based on the sum of their ball scores over all rounds.
 
