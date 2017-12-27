@@ -93,12 +93,9 @@ The following laws describe the specifics of the basketball event. For general s
  <tr>
     <td > $G </td>
     <td > Backboard  </td>
-   
-    <td align="right">  20cm \* 20cm</td>
-    
-    <td align="right">  40cm \* 40cm</td>
-
-    <td align="right">  20cm \* 20cm</td>
+    <td align="right">  20cm * 20cm</td>
+    <td align="right">  40cm * 40cm</td>
+    <td align="right">  20cm * 20cm</td>
  </tr>
 </table>
 
