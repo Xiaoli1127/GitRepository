@@ -16,7 +16,7 @@ The obstacle is a cube with 50cm*50cm*50cm. The obstacle placement will be diffe
 >Figure 1 Field for SimuroSot Robo Challenge.  
 
 ## 1 Introduction
-The following rules and regulations govern the game of SimuroSot Robo Obstacle avoidance challenge.  The rules and regulations stated are to ensure a fair competition takes place. The objective of the SimuroSotRobo Obstacle avoidance challenge is to allow researchers to develop control algorithms, path planning andobstacle identification strategies without the need of complex and costly hardware setup. Teams areencouraged to use the simulation platform for the evaluation of their algorithms and eventually to participlein the RoboSot obstacle avoidance challenge which is exposed to real world conditions.
+The following rules and regulations govern the game of SimuroSot Robo Obstacle avoidance challenge.  The rules and regulations stated are to ensure a fair competition takes place. The objective of the SimuroSotRobo Obstacle avoidance challenge is to allow researchers to develop control algorithms, path planning andobstacle identification strategies without the need of complex and costly hardware setup. Teams are encouraged to use the simulation platform for the evaluation of their algorithms and eventually to participlein the RoboSot obstacle avoidance challenge which is exposed to real world conditions.
 
 ## 2 Platform
 #### 2.1. The simulation software
@@ -38,11 +38,10 @@ A green carpet playground 300cm X 600cm in size with 2.5cm thick white lines aro
 #### 2.3. Markings on the field
 The field shall be marked as shown in Figure 6.1. The center circle will have a radius of 37.5cm.  
 
-The major lines/arcs (centerline, goal area borderlines and the center circle) shall be white in color of 3mmthickness. The free ball positions shall be marked in grey color.  
+The major lines/arcs (centerline, goal area borderlines and the center circle) shall be white in color of 3mm thickness. The free ball positions shall be marked in grey color.  
 
 #### 2.4. The goal, goal line and goal area
-The goal shall be 40cm wide. The goal line is the line just in front of the goal which is 40cm long. The goal area
-(Region A) shall comprise of the area contained by the rectangle (sized 50cm X 15cm in front of the goal).
+The goal shall be 40cm wide. The goal line is the line just in front of the goal which is 40cm long. The goal area (Region A) shall comprise of the area contained by the rectangle (sized 50cm X 15cm in front of the goal).
 
 ## 3 Game Component & Processing
 
@@ -50,13 +49,12 @@ The goal shall be 40cm wide. The goal line is the line just in front of the goal
 
 The duration of a game shall be two equal periods of 5 minutes each, with a half time interval for 10 minutes. Anofficial timekeeper will pause the stopwatch during substitutions, during timeout and during such situations that deem to be right as per the discretion of the timekeeper.
 
-If a team is not ready to resume the game after the halftime, additional 5 minutes shall be given. If the team is stillnot ready to continue the game after the additional time, the team will be disqualified from the game.
+If a team is not ready to resume the game after the halftime, additional 5 minutes shall be given. If the team is still not ready to continue the game after the additional time, the team will be disqualified from the game.
 
 ## 4 The 1st challenge event
-In this event, the obstacle position are given by the server when client program first get up. You need to make agood control of you robot motion to avoid the obstacle. And you may also make a good path planning strategy.
+In this event, the obstacle position are given by the server when client program first get up. You need to make a good control of you robot motion to avoid the obstacle. And you may also make a good path planning strategy.
 
-- The event contain four scenery, For each scenery, the team will have three test, the average score will be
-the final score.
+- The event contain four scenery, For each scenery, the team will have three test, the average score will be the final score.
 
 #### 4.1. Scenery 1
 There are 3 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines.
@@ -68,10 +66,10 @@ There are 6 obstacle located in three lines. 1/4 lines, half lines and 3/4 lines
 There are 6 obstacle randomly located in the ground.
 
 #### 4.4. Scenery 4
-There are 5 obstacle, two at the 1/4 lines, two at the 3/4 lines. one in the half lines and the middle one willrandomly moving along the lines.
+There are 5 obstacle, two at the 1/4 lines, two at the 3/4 lines. one in the half lines and the middle one will randomly moving along the lines.
 
 ## 5 The 2nd challenge event
-In this event, the obstacle position are NOT given. You need to control your robot to avoid the obstacle by usingonly the camera on your robot.
+In this event, the obstacle position are NOT given. You need to control your robot to avoid the obstacle by using only the camera on your robot.
 
 - The event contain four scenery, For each scenery, the team will have three test, the average score will be the final score of the scenery.
 
