@@ -1,12 +1,12 @@
-Version: 15.0.2 Date: Mon Apr 10 2017 08:39:52 GMT+0800 (HKT)
+[](en)Version: 15.0.2 Date: Mon Apr 10 2017 08:39:52 GMT+0800 (HKT)
 
 ![](image/pic1.png)
 
-# HuroCup Laws of the Game
+# [](en)HuroCup Laws of the Game
 
-# Sprint (Pro/U19)
+# [](en)Sprint (Pro/U19)
 
-Jacky Baltes  
+[](en)Jacky Baltes  
 Educational Robotics Centre  
 National Taiwan Normal University  
 Taipei, Taiwan  
@@ -14,20 +14,20 @@ Taipei, Taiwan
 
 
 ![](image/pic2.png)
-Abstract  
+[](en)Abstract  
 The following rules and regulations govern the game of the Robot Sprint event in HuroCup, a robotic game and robotics benchmark problem for humanoid robots.  
 
-## Latest Version of the Rules for HuroCup  
+## [](en)Latest Version of the Rules for HuroCup  
 The latest official version of the rules of the game for HuroCup is always available from the HuroCup Facebook Page.  
 
-## Changes to the Rules of HuroCup Sprint  
+## [](en)Changes to the Rules of HuroCup Sprint  
 The rules for restarting after a foul were made explicit.  
 
-## HuroCup Sprint - Rules of the Game   
+## [](en)HuroCup Sprint - Rules of the Game   
 The robot sprint challenge is a sprint event for humanoid robots. The goal is for the robots to move as quickly as possible from a start line to the end line for a series of segments. Laws of the Game: Sprint The following laws describe the specifics of the robot sprint event. For general specifications relevant to all HuroCup events (e.g., robot dimensions, playing field and lighting, responsibility of the referees) please refer to General - HuroCup Laws of the Game.
 
 
-# [SP-1]: Field of Play  
+# [](en)[SP-1]: Field of Play  
 [SP-1.1] : The dimensions of the playing field are at least 600 cm by 400 cm. A figure of the playing field is shown in Figure 1.  
 ![](image/pic3.png)  
 
@@ -40,27 +40,27 @@ The robot sprint challenge is a sprint event for humanoid robots. The goal is fo
 |$M|Max. dimensions of marker|20cm * 20cm * 20cm|50cm * 50cm *5 0cm|30cm * 30cm * 30cm
 
 
-[SP-1.2] : The length of the lanes is $L.  
+[](en)[SP-1.2] : The length of the lanes is $L.  
 [SP-1.3] : The width of the lanes is $W.    
 [SP-1.4] : The playing field consists of a several lanes that run the length of the playing field. The lane markings may not  be visually distinct enough so that they can be identified through a robot’s sensors or they may just be given explicitly as  guidelines for the referees. A robot should not rely on being able to detect the lane markings consistently and must be able 
 to remain in its lane even in the absence of lane markers.  
 [SP-1.5] : The size of the start zone is at least $SZ and the size of the end zone is at least $EZ.  
 [SP-1.6] : Teams may placed visual markers into the end zone of their lane as long as they make all reasonable attempts to not interfere with other robots. The maximum size of the markers is given by $M.  
  
-# [SP-2]: Number of Players  
+# [](en)[SP-2]: Number of Players  
 [SP-2.1] : A single robot from each team competes in the sprint event.  
 
-# [SP-3]: The Players  
+# [](en)[SP-3]: The Players  
 [SP-3.1]: Please refer to [HuroCup - General Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1514003534734000&usg=AFQjCNEEUr2r5CykPblIL16dNCAXkFNR-A) for details about the players.  
 
-# [SP-4]: The Referee  
+# [](en)[SP-4]: The Referee  
 [SP-4.1]: Please refer to [HuroCup - General Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1514003534734000&usg=AFQjCNEEUr2r5CykPblIL16dNCAXkFNR-A) for details about the referee and his or her duties.
 
 
-# [SP-5]: The Assistant Referee   
+# [](en)[SP-5]: The Assistant Referee   
 [SP-5.1]: Please refer to [HuroCup - General Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1514003534734000&usg=AFQjCNEEUr2r5CykPblIL16dNCAXkFNR-A) for details about the assistant referee and his or her duties.
 
-# [SP-6]: Game Play  
+# [](en)[SP-6]: Game Play  
 [SP-6.1] : At the beginning of the competition, all robots must be completely behind the start line (i.e., in Zone 1) of their respective categories, in the middle of their assigned track, and face straight forward.  
 [SP-6.2] : The referee will signal the start of the competition by blowing the whistle. After the referee blows the whistle, the robots is allowed to start and walk forwards towards the end of segment 1 (i.e., Zone 2).  
 [SP-6.3] : The finish plane is the plane which intersects the playing field at a 90 degree angle at the back of the finish line. A robot has completely crossed the end line of one segment with both feet, that is when both feet of the robot crossed the finish plane and touch the ground in the respective end zone.  
@@ -75,29 +75,29 @@ to remain in its lane even in the absence of lane markers.
 * all robots have crossed the finish line of the backward segment,
 * no more active robots remain in the competition.
 
-# [SP-7]: Fouls and Misconduct  
+# [](en)[SP-7]: Fouls and Misconduct  
 [SP-7.1] : Before the start of the race or before restarting after a foul, the robot must be placed in the centre of its assigned track facing straight forward.  
 [SP-7.2] : A robot is not allowed to leave its assigned running track.  
 [SP-7.3] : A robot is not allowed to interfere with any other robot in any way.  
 [SP-7.4] : A robot that commits any fouls or misconducts as described in SP-7 must restart behind the start line as described in SP-7.1.  
 [SP-7.5] : The referee may use other penalties described in HuroCup - General Laws of the Game where appropriate.  
 
-# [SP-8]: Method of Scoring  
+# [](en)[SP-8]: Method of Scoring  
 [SP-8.1] : Robots are awarded points based on the last segment that the robot completed     successfully as well as the order in which they crossed the end line of the last segment.  
 [SP-8.2] : The minimum performance criteria for the sprint is to cross the finish line of the first segment. So all robots that have not crossed the finish line of at least the first segment are   automatically awarded no rank and 0 points.  
 [SP-8.3] : Among the robots that have crossed the finish line of the at least the first segment, the robots are ranked (i.e., 1st place, 2nd place) based on the maximum segment number that the robot completed successfully.  
 [SP-8.4]: In case robots have the same maximum segment number, they are ranked based on the faster time to complete that segment. For more details about the point allocation, please refer to Point Allocation [Organization - HuroCup Laws of the Game].
 
-# [SP-9]: Tiebreaker  
+# [](en)[SP-9]: Tiebreaker  
 [SP-9.1] : In case two or more robots have the same number of points after all rounds of the sprint event, the maximum segment number will be used as tiebreaker. If two robots are tied even after comparing the maximum segment number, then the total time is used as a tiebreaker.
 
-# [SP-10]: Sprint Final
+# [](en)[SP-10]: Sprint Final
 The winner of the overall Sprint event over multiple rounds will be decided by a single elimination round only open to the top four placed robots after all rounds in the sprint event. The semi finals will be R1 vs R4 followed by R2 vs R3. The final race will then determine the winner of the sprint race. There is at least a 10 minute break between the last semi final and the final race.
 
-# World Records
+# [](en)World Records
  This section contains the list of official world records for the HuroCup Robot Sprint competiton first introduced in the 2002 FIRA World Cup competiton.  
-![  ](image/table2.png)  
-![  ](image/table.png)  
+![](image/table2.png)  
+![](image/table.png)  
 
 
 
