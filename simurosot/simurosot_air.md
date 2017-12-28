@@ -36,10 +36,7 @@ For focusing on the development of software algorithms, and providing the same c
 >Figure 1, a schema of the playing field.
 
 
-Streets have a particular color with a dashed line in the middle. These roads are connected to each
-other using several crossroads, and there is a QR code located in the center of each crossing. Data of these QR
-codes tells the drone where it should go next. Several markers are located at the end of streets for different
-mission elements which show the starting point, landing point, and towers location.
+Streets have a particular color with a dashed line in the middle. These roads are connected to each other using several crossroads, and there is a QR code located in the center of each crossing. Data of these QR codes tells the drone where it should go next. Several markers are located at the end of streets for different mission elements which show the starting point, landing point, and towers location.
 
 ## 4 Mission 1: Emergency Delivery
 In this mission, the drone has to land to a specific location while flies through a particular path and avoids any collision with obstacles. After landing, it should return to the starting point. This mission consist of the following elements:

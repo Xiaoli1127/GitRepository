@@ -59,12 +59,11 @@ The following laws describe the specifics of the spartan race event. For general
 >|$CD |Diameter of coins |30mm - 60mm |30mm - 60 mm |
 >|$CT|Thickness of coins |< 8mm |< 8mm |
 >
->Uneven Terrain  
->The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.
+>Uneven Terrain </br> The region of uneven terrain. The task for the robot is to cross the uneven terrain repeatedly.
 
->![](image/4.png)  
->Uneven Terrain  
->A sample uneven terrain playing field for the lift and carry event.  
+![](image/4.png)
+|-|
+|Uneven Terrain</br>A sample uneven terrain playing field for the lift and carry event.|
 
 [SR-1.6]: The uneven terrain is constructed by placing random cut-outs of the sheets on top of each other. The cut-outs may contain holes.  The exact shape of the uneven terrain is determined by the local organizing chair.
 
