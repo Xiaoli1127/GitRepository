@@ -603,4 +603,7 @@ A player of the defending team kicks the ball from any point within the penalty 
 When a goalkeeper kick is called, all robots must immediately halt. All robots from both teams except for the defending goalkeeper must move out of the goal area. The defending team may then position  the ball and the goalkeeper anywhere inside the goal area. Upon signal from the referee, play restarts and the robots may move freely.
 
 When proceeding a goal kick, the kick-off robot can kick the ball into the goal directly, but dribbling into the goal directly is not allowed.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 897886ac72ad962dad470973d732d6a7066d890b
