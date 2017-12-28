@@ -1,37 +1,37 @@
-Version: 15.0.4 Date: Sun Apr 09 2017 19:47:21 GMT-0500 (CDT)itled
+[](en)Version: 15.0.4 Date: Sun Apr 09 2017 19:47:21 GMT-0500 (CDT)itled
 
 ![](image/pic1)  
 
-# HuroCup Laws of the Game  
+# [](en) HuroCup Laws of the Game  
 # Penalty Kick (Pro Adult/U19 Kid)  
   
-## Jacky Baltes  
-## Educational Robotics Center  
-## Department of Electrical Engineering  
-## National Taiwan Normal University  
-## Taipei, 10610, Taiwan  
+#### [](en)Jacky Baltes  
+#### Educational Robotics Center  
+#### Department of Electrical Engineering  
+#### National Taiwan Normal University  
+#### Taipei, 10610, Taiwan  
 [jacky.baltes@ntnu.edu.tw](jacky.baltes@ntnu.edu.tw)
 
 
 
 ![](image/pic2)
-Abstract  
+[](en)Abstract  
 The following rules and regulations govern the penalty kick event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots.
 
-# Latest Version of the Rules for HuroCup
+# [](en)Latest Version of the Rules for HuroCup
 The latest official version of the rules of the game for HuroCup is always available from the HuroCup Facebook Page.
 
-# Changes to the Penalty Kick rules of HuroCup
+# [](en)Changes to the Penalty Kick rules of HuroCup
 There are no significant changes to the penalty kick laws for 2015.
 
-# Penalty Kick
+# [](en)Penalty Kick
 In the penalty kick challenge, the robot must approach a ball, dribble it through a set of simulated defenders into the shooting zone and then kick it past a simulated goal keeper into the goal.
 
-# HuroCup Penalty Kick - Laws of the Game
+# [](en)HuroCup Penalty Kick - Laws of the Game
 The following laws describe the specifics of the penalty kick event. For general specifications relevant to all HuroCup events (e.g., robot dimensions, playing field and lighting, responsibility of the referees) please refer to General - HuroCup Laws of the Game.
 
 
-# [PK-1]: Field of Play
+# [](en)[PK-1]: Field of Play
 [PK-1.1] : The dimensions of the playing field are at least 250 cm by 250 cm.
 [PK-1.2] : One side of the playing field contains a goal. This side of the playing field is called the goal side. The opposite side of  the playing field is called the empty side. The two other sides are called touch lines. See Figure Penalty Kick Field of Play for more details and dimensions. All dimensions are approximate and small variations may occur.
 
@@ -48,31 +48,31 @@ The following laws describe the specifics of the penalty kick event. For general
 |$AD|Length of goal area|30 cm|30cm|
 
 
-[PK-1.3] : The goal is $GW wide and $GD deep and is placed on the goal side of the playing area with its center along the center line of the playing field.  
+[](en)[PK-1.3] : The goal is $GW wide and $GD deep and is placed on the goal side of the playing area with its center along the center line of the playing field.  
 [PK-1.4] : An area $AW wide and $AD deep centered directly in front of the goal is called the goal area.  
 [PK-1.5] : An area $SW wide and $SD deep centered directly in front of the goal is called the shooting area.   
 
 
-# [PK-2]: The Ball
+# [](en)[PK-2]: The Ball
 [PK-2.1] : Please refer to General - HuroCup Laws of the Game for detailed information about the ball.
 
 
 
-# [PK-3]: Number of Robots  
+# [](en)[PK-3]: Number of Robots  
 [PK-3.1] : A single robot competes in a match.
 
 
-# [PK-4]: The Players  
+# [](en)[PK-4]: The Players  
 [PK-4.1]: Please refer to [General - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1514003531765000&usg=AFQjCNGeafezv07vmOZ-DTxFU7NqX1W1yw) for detailed information about the players.
 
 
-# [PK-5]: The Referee  
+# [](en)[PK-5]: The Referee  
 [PK-5.1]: Please refer to [General - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1514003531765000&usg=AFQjCNGeafezv07vmOZ-DTxFU7NqX1W1yw) for detailed information about the referee and his or her duties.
 
-# [PK-6]: The Assistant Referee  
+# [](en)[PK-6]: The Assistant Referee  
 [PK-6.1]: Please refer to [General - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/15laUlB6uZ56J5WpGPhepb7P8O7ul-8K5sgdf4uwu4Ak/pub&sa=D&ust=1514003531765000&usg=AFQjCNGeafezv07vmOZ-DTxFU7NqX1W1yw) for detailed information about the assistant referee and his or her duties.
 
-# [PK-7]: Game Play  
+# [](en)[PK-7]: Game Play  
 [PK-7.1]: One robot is designated the kicker and another robot or a static robot is designated the goalkeeper. All other robots must be positioned behind the centre line and must not interfere with the designated kicker or goalkeeper in any way.  
 [PK-7.2]: The only robots allowed to move during a penalty kick are the designated kicker and the goalkeeper.  
 [PK-7.3]: Each robot may have at most one human handler associated with it.  
@@ -100,14 +100,14 @@ The following laws describe the specifics of the penalty kick event. For general
 6. or the maximum duration of the competition (2 minutes) has elapsed.  
 [PK-7.20] : After the end of the penalty kick, the next robot is designated the kicker.
 
-# [PK-8]: Method of Scoring  
+# [](en)[PK-8]: Method of Scoring  
 [PK-8.1] : There are five tries in one round of the competition. Each try consists of all robots being designated the runner exactly once. Each robot receives one point for each try in which it manages to score a goal.  
 [PK-8.2] : Any robot that has not scored a goal at least once is automatically awarded no rank and 0 points.  
 [PK-8.3] : Among the robots that have scored at least one goal, the robots are ranked (i.e., 1st place, 2nd place) based on the greater number of goals scored.  
 [PK-8.4] : In case of a tie, i.e., more than one robot having scored the same number of goals, the robots will be ranked based on the total time required to score all goals.  
 For more details about the point allocation, please refer to [Point Allocation [Organization - HuroCup Laws of the Game](https://www.google.com/url?q=https://docs.google.com/document/d/1kn2_dtNp65n1j5TjZWJVIlTKRFcNkTSpARkdhLHNA1c/edit%23bookmark%3Did.rzzlothp76e9&sa=D&ust=1514003531775000&usg=AFQjCNFVIkFXetxWA2rfK3NblBbinxZulg).  
 
-# [PK-9]: Tiebreaker  
+# [](en)[PK-9]: Tiebreaker  
 [PK-9.1] : In case two or more robots have the same number of points after all rounds in the penalty kick event, the sum of the goals in all rounds will be used a tiebreaker.  
 [PK-9.2] : In case two or more robots have the same number of points after all rounds and are still tied after applying the previous tiebreaker, the maximum number of goals in a single round will be used as tiebreaker.  
 [PK-9.3] : In case two or more robots are still tied after applying the previous tiebreaker, the time for the maximum number of goals in a single round will be used as tiebreaker.
